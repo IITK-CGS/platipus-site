@@ -1,0 +1,91 @@
+- ENTRYTYPE: inproceedings
+  ID: laskar2023groups
+  abstract: Many real-life decisions, such as booking a vacation or selecting a partner,
+    involve relatively cost-free sampling of options up to a terminal decision point,
+    beyond which the choice becomes costly to reverse. Such problems can be formulated
+    as optimal stopping problems (OSPs), such as the famous secretary problem. Although
+    human behavior on optimal stopping problems has been studied extensively, much
+    of the literature has focused on the behavior of individual decision-makers operating
+    using a binary payoff function. In this study, we use an OSP with a continuous
+    payoff function to study how individuals’ decisions differ from the collective
+    decision of groups of three members working together. An independent threshold
+    model offered the best explanation for the behavior of both individuals and groups.
+    We found groups performed significantly better than individuals, with individuals
+    consistently waiting too long to make a choice relative to the optimal strategy.
+    Groups are also more decisive in following their internal thresholds, which are
+    also different than a simple average of member thresholds. Finally, we also found
+    a lack of long-term learning in OSPs for groups, a trend previously documented
+    in individuals.
+  author: Laskar, Pritam and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Decision Making, Social Cognition
+  number: '45'
+  title: Groups are Better than Individuals at Solving Optimum Stopping Problems
+  volume: '45'
+  year: '2023'
+- ENTRYTYPE: inproceedings
+  ID: srivastava2023measuring
+  abstract: The empirical measurement of mental effort is an important problem in
+    the cognitive sciences. Recently, researchers have adopted econometric tools to
+    attempt to characterize mental effort in terms of monetary costs foregone. Such
+    efforts yield a very helpful calculation device - a money utility of mental effort.
+    However, since the opportunity cost of applying mental effort in any given situation
+    is measured with respect to time rather than money in most ecologically reasonable
+    settings, it is even more desirable to obtain a measure of the time utility of
+    mental effort. In the absence of direct measurements of mental effort, such a
+    task has proved econometrically challenging. We use a recently developed direct
+    measure of mental effort to characterize its time utility, finding that it is
+    approximately linear in effort. We discuss some implications of this result for
+    current theories of mental effort, as well as for practical applications.
+  author: Mehrotra, Samarth and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Mental Effort
+  number: '45'
+  title: Measuring the time utility of mental effort
+  volume: '45'
+  year: '2023'
+- ENTRYTYPE: inproceedings
+  ID: ayare2023tracking
+  abstract: Computational models of multiple object tracking (MOT) presuppose the
+    existence of non-conceptual indexes in visual perception, and as a result predict
+    that ID (identification) performance on MOT tasks should be no worse than tracking
+    performance for the same stimuli. However, empirical evidence suggests that ID
+    performance is worse than tracking performance in MOT. We propose a computational
+    model of MOT that is able to account for several empirical results related to
+    tracking performance without the use of indexes and thus avoids yoking tracking
+    performance to ID performance. We also test our model empirically, contrasting
+    it with an existing index-based model, and show that an assumption that avoids
+    indexes and instead incorporates an explicit (rather than an implicit) mechanism
+    for identity maintenance accounts well for the variation in ID performance with
+    increasing number of targets in MOT with visually identical objects.
+  author: Ayare, Shubhamkar and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Multiple Object Tracking, Visual Indexing Theory
+  number: '45'
+  title: Tracking Multiple Objects without Indexes
+  url: https://escholarship.org/uc/item/29x6398w
+  volume: '45'
+  year: '2023'
+- ENTRYTYPE: inproceedings
+  ID: srivastava2022selecting
+  abstract: It is intuitive to believe that humans take considerations of mental effort
+    into account when making decisions. However, it has proved difficult to differentiate
+    theories of mental effort in the absence of direct measurements of this psychological
+    construct. Existing measurements of mental effort using response times and revealed
+    preferences have low reliability. In this paper, we present a new experimental
+    task - selecting between visuomotor lotteries using eye-tracking for sampling
+    lotteries - that enables direct measurement of mental effort. Unlike response
+    time-based measures, effort measurements in this task are not confounded by actual
+    effort allocation. Unlike revealed preference-based measures, effort measurements
+    in this task are acquired on a natural scale unitized by automatic visual selection
+    processes. We also report results from a simple experiment conducted using this
+    task, which reproduce existing findings of costly effort-aversion, and also demonstrate
+    adaptive adjustment of mental effort.
+  author: Mehrotra, Samarth and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Decision Making, Mental Effort
+  number: '44'
+  title: Selecting between visuomotor lotteries to measure mental effort in risky
+    decisions
+  volume: '44'
+  year: '2022'

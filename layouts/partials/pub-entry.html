@@ -1,0 +1,12 @@
+<p>
+  <span style="font-weight: bold">
+    {{ if .url }}
+    <a href="{{ .url }}">{{ .title }}</a>.
+    {{ else }}
+      {{ .title }}.
+    {{ end }}
+  </span>
+  <br/>{{ .author }}.
+  <br/><span style="font-style:italic;">{{ .volume }}th {{ .booktitle }}</span>
+  <br/><span style="font-variant: small-caps;"><span style="font-weight:bold;">Keywords: </span>{{ .keywords }}</span>
+</p>

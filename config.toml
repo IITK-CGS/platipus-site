@@ -1,0 +1,26 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "PLATIPUS - Probability, Logic And Theories of Information Processing Used Serendipitously"
+theme = "notrack"
+newContentEditor = "nvim"
+mainSections = []
+# disqusShortname = "example"
+paginate = 4
+
+[params]
+  author = ""
+  siteHeading = "PLATIPUS" # defaults to author
+  favicon = "hugo_grotius.png" # Adds a small icon next to the page title in a tab
+  showBlogLatest = true
+  mainSections = []
+  showTaxonomyLinks = false
+  nBlogLatest = 4 # number of blog post om the home page
+  blogLatestHeading = "My writing"
+
+  [params.social]
+    github = "example"
+    linkedin = "example"
+    email = "example@example.com"
+    mastodon = "example"
+    rss = "rss won't use the value you give it so you can put anything here"
+    keybase = "example"

@@ -1,0 +1,10 @@
+{{ range $.Site.Data.publications.by_year }}
+  {{ range $year, $entries := . }}
+     <h4>{{ $year }}</h4>
+     {{ range $entries }}
+       <ul>
+       {{ partial "pub-entry.html" . }}
+       </ul>
+     {{ end }}
+  {{ end }}
+{{ end }}
