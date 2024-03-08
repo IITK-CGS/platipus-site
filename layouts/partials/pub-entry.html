@@ -1,12 +1,24 @@
 <p>
   <span style="font-weight: bold">
-    {{ if .url }}
-    <a href="{{ .url }}">{{ .title }}</a>.
+    {{ if .url }}<a href="{{ .url }}">{{ .title }}.</a>
+    {{ else if .doi }}<a href="https://doi.org/{{ .doi }}">{{ .title }}.</a>
     {{ else }}
       {{ .title }}.
     {{ end }}
   </span>
   <br/>{{ .author }}.
-  <br/><span style="font-style:italic;">{{ .volume }}th {{ .booktitle }}</span>
+  <br/>
+  {{ if strings.Contains .ENTRYTYPE "article" }}
+  <span style="font-style:italic;">
+     {{ .journal }}{{ if .volume}}, Volume {{ .volume }}{{end}}, {{ .year }}.
+  </span>
+  {{ else }}
+  <span style="font-style:italic;">{{ if .volume }} {{ .volume }}th {{end}}
+    {{ if .booktitle }} {{ .booktitle }},
+    {{ else if .journal }} {{ .journal }},
+    {{ end }}
+    {{.year}}
+  </span>
+  {{ end }}
   <br/><span style="font-variant: small-caps;"><span style="font-weight:bold;">Keywords: </span>{{ .keywords }}</span>
 </p>

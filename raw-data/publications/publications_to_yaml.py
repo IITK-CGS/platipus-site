@@ -30,12 +30,16 @@ with open(data_dir + "by_topic.yml", "w") as out:
 	by_topic = dict()
 	for pub in allpubs:
 		topics = pub["keywords"].split(",")
+		topics = [t.strip() for t in topics if len(t.strip())>0]
+		if len(topics) == 0:
+			if "Miscellaneous" not in by_topic:
+				by_topic["Miscellaneous"] = []
+			by_topic["Miscellaneous"].append(pub)
 		for topic in topics:
-			topic = topic.strip()
 			if topic not in by_topic: by_topic[topic] = []
 			by_topic[topic].append(pub)
 	# print(by_topic)
-	by_topic = [{x: by_topic[x]} for x in by_topic]
+	# by_topic = [{x: by_topic[x]} for x in by_topic]
 	# print(by_topic)
 	# print(type(by_topic))
 	# sorted(by_topic, reverse=True)

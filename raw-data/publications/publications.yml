@@ -1,3 +1,89 @@
+- ENTRYTYPE: inbook
+  ID: arya2023clique
+  abstract: This paper presents results from in silico experiments trying to uncover
+    the mechanisms by which people both succeed and fail to reach consensus in networked
+    games. We find that the primary cause for failure in such games is preferential
+    selection of information sources. Agents forced to sample information from randomly
+    selected fixed neighborhoods eventually converge to a consensus, while agents
+    free to form their own neighborhoods and forming them on the basis of homophily
+    frequently end up creating balkanized cliques. We also find that small-world structure
+    mitigates the drive towards consensus in fixed networks, but not for self-selecting
+    networks. Preferentially attached networks appear to show the highest convergence
+    to one color, thereby showing resilience to balkanization of opinion in self-selecting
+    networks. We conclude with a brief discussion of the implications of our findings
+    for the representation of behavior in socio-cultural modeling.
+  author: Arya,  Pratyush and Srivastava,  Nisheeth
+  booktitle: Lecture Notes in Computer Science
+  doi: 10.1007/978-3-031-43129-6_23
+  isbn: '9783031431296'
+  issn: 1611-3349
+  keywords: Preference Learning, Agent-based Modeling, Social Preference
+  pages: 231–240
+  publisher: Springer Nature Switzerland
+  title: Understanding Clique Formation in Social Networks - An Agent-Based Model
+    of Social Preferences in Fixed and Dynamic Networks
+  url: http://dx.doi.org/10.1007/978-3-031-43129-6_23
+  year: '2023'
+- ENTRYTYPE: article
+  ID: srivastava2023goodmodels
+  abstract: The dissociation between statistical prediction and scientific explanation
+    advanced by Bowers et al. for studies of vision using deep neural networks is
+    also observed in several other domains of behavior research, and is in fact unavoidable
+    when fitting large models such as deep nets and other supervised learners, with
+    weak theoretical commitments, to restricted samples of highly stochastic behavioral
+    phenomena.
+  author: Srivastava, Nisheeth and Sifar, Anjali and Srinivasan, Narayanan
+  doi: 10.1017/S0140525X23001784
+  journal: Behavioral and Brain Sciences
+  keywords: Prediction, Explanation
+  pages: e408
+  title: Statistical prediction alone cannot identify good models of behavior
+  volume: '46'
+  year: '2023'
+- ENTRYTYPE: inproceedings
+  ID: mehrotra2023time
+  abstract: The empirical measurement of mental effort is an important problem in
+    the cognitive sciences. Recently, researchers have adopted econometric tools to
+    attempt to characterize mental effort in terms of monetary costs foregone. Such
+    efforts yield a very helpful calculation device - a money utility of mental effort.
+    However, since the opportunity cost of applying mental effort in any given situation
+    is measured with respect to time rather than money in most ecologically reasonable
+    settings, it is even more desirable to obtain a measure of the time utility of
+    mental effort. In the absence of direct measurements of mental effort, such a
+    task has proved econometrically challenging. We use a recently developed direct
+    measure of mental effort to characterize its time utility, finding that it is
+    approximately linear in effort. We discuss some implications of this result for
+    current theories of mental effort, as well as for practical applications.
+  author: Mehrotra, Samarth and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Mental Effort
+  number: '45'
+  title: Measuring the time utility of mental effort
+  url: https://escholarship.org/uc/item/4v69h6s9
+  volume: '45'
+  year: '2023'
+- ENTRYTYPE: inproceedings
+  ID: mitra2023unpredictability
+  abstract: Recent research has identified intertemporal impulsivity as a critical
+    cognitive variable for explaining the autocatalytic nature of socioeconomic status.
+    However, how exactly this relationship transpires has yet to be clearly identified,
+    with several possible cognitive mechanisms proposed in the literature. We designed
+    an experimental paradigm where participants farmed crops under budgetary constraints
+    and intermittently faced random resource demands. We discovered that, as a result
+    of unpredictable resource shocks, people's preferences shifted from long-term
+    choices to short-term ones. We also found people's self-reported sense-of-control
+    scores to be predictive of the magnitude of their preference shifts. On the basis
+    of these results, we argue that steep inter-temporal discounting arises as a rational
+    adaptation to persistently experiencing long-term planning failures due to unpredictable
+    resource shocks.
+  author: Mitra, Arjun and Srivastava, Nisheeth and Srinivasan, Narayanan
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: ''
+  number: '45'
+  title: Unpredictability shortens planning horizons
+  url: https://escholarship.org/uc/item/31j9s6fk
+  volume: '45'
+  year: '2023'
 - ENTRYTYPE: inproceedings
   ID: laskar2023groups
   abstract: Many real-life decisions, such as booking a vacation or selecting a partner,
@@ -21,27 +107,53 @@
   keywords: Decision Making, Social Cognition
   number: '45'
   title: Groups are Better than Individuals at Solving Optimum Stopping Problems
+  url: https://escholarship.org/uc/item/2pd5d3vk
   volume: '45'
   year: '2023'
 - ENTRYTYPE: inproceedings
-  ID: srivastava2023measuring
-  abstract: The empirical measurement of mental effort is an important problem in
-    the cognitive sciences. Recently, researchers have adopted econometric tools to
-    attempt to characterize mental effort in terms of monetary costs foregone. Such
-    efforts yield a very helpful calculation device - a money utility of mental effort.
-    However, since the opportunity cost of applying mental effort in any given situation
-    is measured with respect to time rather than money in most ecologically reasonable
-    settings, it is even more desirable to obtain a measure of the time utility of
-    mental effort. In the absence of direct measurements of mental effort, such a
-    task has proved econometrically challenging. We use a recently developed direct
-    measure of mental effort to characterize its time utility, finding that it is
-    approximately linear in effort. We discuss some implications of this result for
-    current theories of mental effort, as well as for practical applications.
-  author: Mehrotra, Samarth and Srivastava, Nisheeth
+  ID: sifar2023measuring
+  abstract: Computational models of perceptual decision-making depend heavily on empirical
+    goodness-of-fit measures for model selection. However, it is not possible to improve
+    models' fit to data indefinitely, particularly when the data in question are variable
+    across multiple elicitations. The completeness of a model or a theory assesses
+    the extent to which it can predict observations in comparison with an ideal model.
+    We measure the completeness of contemporary race models on a paradigmatic perceptual
+    decision-making task - random dot motion discrimination - and show that the simple
+    drift diffusion model is already close to complete in describing random dot motion
+    discrimination data, with more complex models being in fact over-fit to datasets.
+    Thus, in this paper, we quantitatively demonstrate limits to the ability of conventional
+    choice fraction and response time data to disambiguate complex models of perceptual
+    decision-making.
+  author: Sifar, Anjali and Purohit, Hariharan and Srivastava, Nisheeth
   booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-  keywords: Mental Effort
+  keywords: ''
   number: '45'
-  title: Measuring the time utility of mental effort
+  title: Measuring the completeness of race models for perceptual decision-making
+  url: https://escholarship.org/uc/item/9np8k2fg
+  volume: '45'
+  year: '2023'
+- ENTRYTYPE: inproceedings
+  ID: shivnekar2023measuring
+  abstract: Moral decision-making research is currently dominated by experimental
+    studies that employ dilemmas, situations where more than one course of action
+    may be justifiable. Humans almost characteristically vacillate between options
+    before reaching a conclusion while reasoning on such problems. Current experimental
+    designs disregard this vital aspect of moral decisions by only measuring judgments
+    produced at the end of reasoning. We present an experimental paradigm for measuring
+    moral conflict as a function of vacillations experienced by participants while
+    deliberating. We conducted two experiments to correlate our measure with two different
+    definitions of conflict prevalent in the literature. Across both experiments,
+    we found that people vacillate more on conflicting problems and that vacillations
+    correlate with their subjective feeling of conflict and confidence. We also found
+    that the pattern of deliberation uncovered by these vacillations is inconsistent
+    with currently favored models of moral reasoning and more consistent with a single
+    accumulation to threshold process.
+  author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Moral decision-making
+  number: '45'
+  title: Measuring Moral Vacillations
+  url: https://escholarship.org/uc/item/2nq1c2dt
   volume: '45'
   year: '2023'
 - ENTRYTYPE: inproceedings
@@ -66,8 +178,70 @@
   url: https://escholarship.org/uc/item/29x6398w
   volume: '45'
   year: '2023'
+- ENTRYTYPE: article
+  ID: sifar2022overprecise
+  abstract: 'Research in decision-making has recently begun to emphasize predictive
+    accuracy as the dominant principle for designing and evaluating choice models.
+    This emphasis has led to the development of increasingly more precise models of
+    humans’ risk preferences, as measured in certain experimental paradigms built
+    upon certainty equivalence testing. In this paper, we argue that the level of
+    precision attained by recent choice models is illusory, because human preferences
+    are irreducibly noisy, so that overly precise predictions are unlikely to reflect
+    reality. We support this argument by measuring intra-observer consistency in choice
+    behavior in two common risk preference paradigms: decisions from description and
+    experience. We find that while current choice models of decisions from experience
+    align fairly well with the level of choice consistency seen in our experimental
+    data, choice models for decisions from description are significantly more consistent
+    with humans’ choices than humans themselves are consistent with their own choices.
+    We also found that models of decisions from description generalize poorly across
+    sessions of choice responses from the same participants, whereas models of decisions
+    from experience generalize quite well. A historical model comparison of 16 influential
+    risky choice models on our dataset reveals that it is very difficult to improve
+    upon simple expected utility models in predictive ability for aggregate measures
+    of risky choices from description. We discuss some theoretical and practical implications
+    of our results.'
+  author: Sifar,  Anjali and Srivastava,  Nisheeth
+  doi: 10.1007/s42113-022-00146-1
+  issn: 2522-087X
+  journal: Computational Brain & Behavior
+  keywords: ''
+  month: July
+  number: '3'
+  pages: 378–396
+  publisher: Springer Science and Business Media LLC
+  title: Over-precise Predictions Cannot Identify Good Choice Models
+  url: http://dx.doi.org/10.1007/s42113-022-00146-1
+  volume: '5'
+  year: '2022'
 - ENTRYTYPE: inproceedings
-  ID: srivastava2022selecting
+  ID: ankoju2022sampling
+  abstract: Contemporary models of subjective probability distortions assume that
+    distortions arise during probability encoding. However, such assumptions are inconsistent
+    with the ability of humans to retrieve probabilities veridically in some elicitation
+    formats. We present a sampling-based model of probability judgment for risky prospects
+    that assumes that probability distortions occur because people read out probability
+    judgments as biased averages from working memory contents. Simulations demonstrate
+    that this model shows the classic inverse-S shaped distortion of probability judgments
+    using only retrieval-stage assumptions. The model further predicts that observers
+    with greater working memory capacity would show larger probability distortions
+    on average, which should lead to a particular fourfold pattern of risk preference
+    as a function of working memory capacity. Using cognitive ability measurements
+    as a proxy for working memory capacity, we conducted an experiment with human
+    participants and found results consistent with the model's predictions as well
+    as previous empirical studies. Our results support a role for sampling during
+    assessment of risky prospects, which in turn explains differences in probability
+    distortions seen across different elicitation methods.
+  author: Ankoju, Bhanu Prakash and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: ''
+  number: '44'
+  title: Sampling-based probability construction explains individual differences in
+    risk preference
+  url: https://escholarship.org/uc/item/9pm4x231
+  volume: '44'
+  year: '2022'
+- ENTRYTYPE: inproceedings
+  ID: mehrotra2022selecting
   abstract: It is intuitive to believe that humans take considerations of mental effort
     into account when making decisions. However, it has proved difficult to differentiate
     theories of mental effort in the absence of direct measurements of this psychological
@@ -87,5 +261,75 @@
   number: '44'
   title: Selecting between visuomotor lotteries to measure mental effort in risky
     decisions
+  url: https://escholarship.org/uc/item/0j98760d
   volume: '44'
   year: '2022'
+- ENTRYTYPE: inproceedings
+  ID: sifar2021imprecise
+  abstract: 'Supervised learning operates on the premise that labels unambiguously
+    represent ground truth. This premise is reasonable in domains wherein a high degree
+    of consensus is easily possible for any given data record, eg in agreeing on whether
+    an image contains an elephant or not. However, there are several domains wherein
+    people disagree with each other on the appropriate label to assign to a record,
+    eg whether a tweet is toxic. We argue that data labeling must be understood as
+    a process with some degree of domain-dependent noise and that any claims of predictive
+    prowess must be sensitive to the degree of this noise. We present a method for
+    quantifying labeling noise in a particular domain wherein people are seen to disagree
+    with their own past selves on the appropriate label to assign to a record: choices
+    under prospect uncertainty. Our results indicate that ‘state-of-the-art’choice
+    models of decisions from description, by failing to consider the intrinsic variability
+    of human choice behavior, find themselves in the odd position of predicting humans’
+    choices better than the same humans’ own previous choices for the same problem.
+    We conclude with observations on how the predicament we empirically demonstrate
+    in our work could be handled in the practice of supervised learning.'
+  author: Sifar, Anjali and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: ''
+  number: '43'
+  title: Imprecise Oracles Impose Limits to Predictability in Supervised Learning
+  url: https://www.cse.iitk.ac.in/users/nsrivast/sifar_imprecise_2021.pdf
+  volume: '43'
+  year: '2021'
+- ENTRYTYPE: inproceedings
+  ID: singhal2021one
+  abstract: We test whether people are able to reason based on incidentally acquired
+    probabilistic and context-specific magnitude information. We manipulated variance
+    of values drawn from two normal distributions as participants perform an unrelated
+    counting task. Our results show that people do learn category-specific information
+    incidentally, and that the pattern of their judgments is broadly consistent with
+    normative Bayesian reasoning at the cohort level, but with large individual-level
+    variability. We find that this variability is explained well by a frugal memory
+    sampling approximation; observer models making this assumption explain approximately
+    70
+  author: Singhal, Ishan and Srinivasan, Narayanan and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: ''
+  number: '43'
+  title: 'One and known: Incidental probability judgments from very few samples'
+  url: https://escholarship.org/uc/item/9066z5gx
+  volume: '43'
+  year: '2021'
+- ENTRYTYPE: inproceedings
+  ID: sifar2020limits
+  abstract: 'Research in decision-making has recently begun to emphasize predictive
+    accuracy as the dominant principle for designing and evaluating choice models.
+    This emphasis has led to the development of increasingly more precise models of
+    humans’ risk preferences, as measured in certain experimental paradigms built
+    upon certainty equivalence testing. In this paper, we argue that the level of
+    precision attained by recent choice models is unexpected, because human preferences
+    are irreducibly noisy. We support this argument by conducting experiments to measure
+    intra-observer consistency in choice behavior in two common risk preference paradigms:
+    decisions from description and experience. We find that while current choice models
+    of decisions from experience align fairly well with the upper limits of choice
+    consistency seen in our experimental data, choice models for decisions from description
+    are significantly more consistent with humans’ choices than the humans themselves
+    are consistent with their own choices. We discuss some theoretical and practical
+    implications of our results.'
+  author: Sifar, Anjali and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: ''
+  number: '42'
+  title: Limits on Predictability of Risky Choice Behavior
+  url: https://www.cognitivesciencesociety.org/cogsci20/papers/0012/0012.pdf
+  volume: '42'
+  year: '2020'
