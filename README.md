@@ -51,7 +51,7 @@ This will start the hugo server and generate the site. It will also live update 
 
 ## 2. How to add new members or delete old members?
 
-The details about current members and alumni is maintained as .yml files in [./data/current_members/](./data/current_members/) and [./data/alumni/](./data/alumni/).
+The details about current members and alumni is maintained as .yml files in [./data/current_members/](./data/current_members/) and [./data/past_members.yml](./data/past_members.yml).
 
 Member photos can themselves be placed in [./static/](./static/) directory or an appropriate sub-directory.
 
@@ -68,9 +68,9 @@ The pdfs for the publications can themselves be placed in [./static/](./static/)
 
 ## 4. How to customize how the People page is displayed?
 
-The People page is generated using [./content/people.md](./content/people.md). This uses current_members.html and alumni.html shortcodes in [./layouts/shortcodes/](./layouts/shortcodes/).
+The People page is generated using [./content/people.md](./content/people.md). This uses current\_members.html and past\_members.html shortcodes in [./layouts/shortcodes/](./layouts/shortcodes/).
 
-These shortcodes in turn use the current_member.html and alumni.html partials at [./layouts/partials/](./layouts/partials/).
+These shortcodes in turn use the current\_member.html and past\_member.html partials at [./layouts/partials/](./layouts/partials/).
 
 ## 5. How to customize the entries on the Publications page?
 

@@ -1,5 +1,13 @@
-
 /* For all devices */
+
+.current-member-table{
+    border-collapse: separate;
+    border-spacing: 2em;
+}
+
+.current-member > td > p{
+    line-height:1.2;
+}
 
 /* Desktop and Tablets */
 @media screen and (min-width: 768px) {
@@ -24,6 +32,13 @@
 
 /* Mobiles */
 @media screen and (max-width: 768px) {
+    .current-member-photo tr{
+        display: table;
+        width: 100%;
+    }
+    td{
+        display: table-row;
+    }
     .myname {
         display: flex;
         width: 100%;

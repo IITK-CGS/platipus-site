@@ -9,5 +9,5 @@ menu:
 
 {{< current_members >}}
 
-{{< alumni >}}
+{{< past_members >}}
 

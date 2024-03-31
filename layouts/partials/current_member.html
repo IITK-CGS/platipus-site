@@ -1,10 +1,8 @@
-<tr>
-  <td><img src="{{ .photo }}" height="120px" width="120px"/></td>
-  <td>
-    <span style="font-weight:bold"><a href="{{ .personal_webpage }}">{{ .name }}</a></span>
-    <br/>
-    <span style="font-size:0.8em; font-family:monospace;">{{ .email }}</span>
-    <br/>
-    <span style="font-size:0.8em;">{{ .summary }}</span>
+<tr class="current-member">
+  <td class="current-member-photo"><img src="/img/{{ .photo }}" width="240px" height="240px"></td>
+  <td style="vertical-align:top; padding-top:12px;">
+    <span style="font-weight:bold;"><a href="{{ .webpage }}">{{ .name }}</a></span>
+    (<span style="font-size:0.8em; font-family:monospace;">{{ .email }}</span>)
+    <p style="font-size:0.8em;">{{ .summary }}</p>
   </td>
 </tr>

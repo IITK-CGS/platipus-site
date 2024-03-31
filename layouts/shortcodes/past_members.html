@@ -1,0 +1,6 @@
+<h2>Past Members</h2>
+<table>
+  {{ range $key, $data := $.Site.Data.past_members }}
+    {{ partial "past_member.html" $data }}
+  {{ end }}
+</table>
