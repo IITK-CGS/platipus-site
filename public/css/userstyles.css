@@ -1,0 +1,43 @@
+
+/* For all devices */
+
+/* Desktop and Tablets */
+@media screen and (min-width: 768px) {
+    .myname {
+        display: flex;
+        width: 40vw;
+        border: 2px solid;
+        margin: 12px;
+        text-align: left;
+    }
+
+    .myname > h2 > a, .myname > h2{
+        font-size:2vw;
+        padding:0;
+    }
+
+    nav{
+        padding:0;
+        padding-bottom:1vw;
+    }
+}
+
+/* Mobiles */
+@media screen and (max-width: 768px) {
+    .myname {
+        display: flex;
+        width: 100%;
+        border: 2px solid;
+        margin: 12px;
+    }
+    .myname > h2 > a, .myname > h2{
+        font-size: 0.8em;
+        padding: 0;
+        text-align: left;
+    }
+    nav, nav > ul{
+        justify-content: center;
+        padding:1vw;
+        margin:auto;
+    }
+}
