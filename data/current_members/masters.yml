@@ -5,9 +5,10 @@ gourav:
   photo:
 sanket:
   name: Sanket Dutta
-  email:
-  summary:
-  photo:
+  email: sanketd21@iitk.ac.in
+  webpage: https://www.linkedin.com/in/sanket-dutta-bb00091b9/
+  summary: Working on Automated Question Generation within the lab. Personal interest in exploring interactive technology for music production and sports analytics.
+  photo: members/sanket.jpg
 satwick:
   name: Satwick Sen Sharma
   email:
@@ -19,7 +20,8 @@ roshan:
   summary:
   photo:
 dharna:
-  name: Dharna Prasad
-  email:
-  summary:
-  photo:
+  name: Dharna
+  email: dharnap23@iitk.ac.in
+  webpage: https://www.linkedin.com/in/dharna-prasad-38853320a/
+  summary: Interested in social cognition.
+  photo: members/dharna.jpg

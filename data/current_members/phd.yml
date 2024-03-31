@@ -5,9 +5,10 @@ arjun:
   photo:
 hariharan:
   name: Hariharan Purohit
-  email:
-  summary:
-  photo:
+  email: hariharan22@iitk.ac.in
+  webpage: https://cgs1.cgs.iitk.ac.in/user/hariharan22/site/
+  summary: Hi, Hari here ('naam toh nahi suna hoga'). I think about quitting. My work focuses on defining the principles behind when people decide to quit an activity. The modalities that I use include behavioral experiments and large-scale datasets. Besides my academic shenanigans, I also learn classical music and play video games. I also like running. Lastly, this bio does not encompass my current lived experiences as a PhD student, which briefly can be described as transient and ever-growing.
+  photo: members/hariharan.jpg
 revati:
   name: Revati Vijay Shivnekar
   email:
