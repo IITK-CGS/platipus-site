@@ -8,17 +8,10 @@ menu:
     weight: 1
 ---
 
-{{<image float="right" width="11em" frame="true" caption="Portrait of me by Michiel Jansz. van Mierevelt" src="img/hugo-portrait.jpg" >}}
+{{<image float="center" width="24em" frame="false" caption="" src="img/platipus_lab_2023.jpg" >}}
 
+Welcome to the PLATIPUS Lab. We are eclectic cognitive scientists trying to capture phenomenal aspects of the human mind through a computational lens. Our members bring forward an intricate web of ideas derived from our varied academic backgrounds. Our only consistent lab philosophy banks on `serendipity` in how we approach our questions and the methods we use to answer them.
 
-Hello, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
-diplomat with experience from academia and government, having published a large
-number of books on international law, sometimes even being called the "father"
-of this field of study. I have experience working as a diplomat from serving as
-the Swedish Ambassador to France.
+To know more about what our little platypi do, you can visit the [People](./people/) page.
 
-After having been wrongfully convicted of treason in the Netherlands and
-being handed a life sentence, I managed to escape with the help of my dear
-wife Maria. She brought a chest of books to the prison where I was incarcerated
-(nothing out of the ordinary since I am an avid reader) which was then
-transported back out of the prison, with the the books replaced by yours truly!
+To know more about the past and ongoing work in the lab, please visit the [Publications](./publications/by-year) page.
