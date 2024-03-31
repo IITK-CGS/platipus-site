@@ -1,0 +1,24 @@
+<h2>Principal Investigator</h2>
+<table>
+{{ range $key, $data := $.Site.Data.current_members.principal_investigator }}
+    {{ partial "current_member.html" $data }}
+  {{ end }}
+</table>
+<h2>Postdoctoral Fellows</h2>
+<table>
+  {{ range $key, $data := $.Site.Data.current_members.postdoc }}
+    {{ partial "current_member.html" $data }}
+  {{ end }}
+</table>
+<h2>Doctoral Students</h2>
+<table>
+  {{ range $key, $data := $.Site.Data.current_members.phd }}
+    {{ partial "current_member.html" $data }}
+  {{ end }}
+</table>
+<h2>Master's Students</h2>
+<table>
+  {{ range $key, $data := $.Site.Data.current_members.masters }}
+    {{ partial "current_member.html" $data }}
+  {{ end }}
+</table>
