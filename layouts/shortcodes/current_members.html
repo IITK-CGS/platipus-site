@@ -22,3 +22,9 @@
     {{ partial "current_member.html" $data }}
   {{ end }}
 </table>
+<h2>Research Assistants</h2>
+<table class="current-member-table">
+  {{ range $key, $data := $.Site.Data.current_members.ra }}
+    {{ partial "current_member.html" $data }}
+  {{ end }}
+</table>
