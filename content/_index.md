@@ -10,8 +10,8 @@ menu:
 
 {{<image float="center" width="24em" frame="false" caption="" src="img/platipus_lab_2023.jpg" >}}
 
-Welcome to the PLATIPUS Lab. We are eclectic cognitive scientists trying to capture phenomenal aspects of the human mind through a computational lens. Our members bring forward an intricate web of ideas derived from our varied academic backgrounds. Our only consistent lab philosophy banks on `serendipity` in how we approach our questions and the methods we use to answer them.
+Welcome to the website of the PLATIPUS lab. This lab hosts scholars interested in studying behavior across scales with a computational approach. Being embedded in the Department of Cognitive Science at IIT Kanpur, the lab has a bias towards studying behavior that can be broadly construed as cognitive in nature, but our ambit extends to both smaller and larger organized systems that exhibit interesting behavior. Our only consistent lab philosophy banks on ‘serendipity’ in how we approach our questions and the methods we use to answer them.
 
-To know more about what our little platypi do, you can visit the [People](./people/) page.
+To know more about what our platypi do, you can visit the **[People](./people/)** page.
 
-To know more about the past and ongoing work in the lab, please visit the [Publications](./publications/by-year) page.
+To know more about the past and ongoing work in the lab, please visit the Publications page sorted **[by year](/publications/by-year)** or **[by topic](/publications/by-topic)**.
