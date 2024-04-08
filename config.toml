@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "PLATIPUS - Probability, Logic And Theories of Information Processing Used Serendipitously"
+title = "PLATIPUS Lab"
 theme = "notrack"
 newContentEditor = "nvim"
 mainSections = []
@@ -9,9 +9,9 @@ paginate = 4
 
 [params]
   author = ""
-  siteHeading = "PLATIPUS (probability, logic and theories of information processing used serendipitously)" # defaults to author
+  siteHeading = "PLATIPUS Lab" # defaults to author
   favicon = "" # Adds a small icon next to the page title in a tab
-  showBlogLatest = true
+  showBlogLatest = false
   mainSections = []
   showTaxonomyLinks = false
 

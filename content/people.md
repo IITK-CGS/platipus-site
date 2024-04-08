@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "People"
 draft: false
 menu:
   main:
     name: "People"
-    weight: 5
+    weight: 2
 ---
 
 {{< current_members >}}

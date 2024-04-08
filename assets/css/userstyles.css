@@ -20,27 +20,13 @@
 
 /* Desktop and Tablets */
 @media screen and (min-width: 768px) {
-    .myname {
-        display: flex;
-        width: 40vw;
-        border: 2px solid;
-        margin: 12px;
-        text-align: left;
-    }
-
-    .myname > h2 > a, .myname > h2{
-        font-size:2vw;
-        padding:0;
-    }
-
-    nav{
-        padding:0;
-        padding-bottom:1vw;
-    }
 }
 
 /* Mobiles */
 @media screen and (max-width: 768px) {
+    h1{
+        font-size:0.5em;
+    }
     .current-member-photo tr{
         display: table;
         width: 100%;
@@ -49,19 +35,23 @@
         display: table-row;
     }
     .myname {
-        display: flex;
+        display: block;
         width: 100%;
-        border: 2px solid;
+        border: 2px;
         margin: 12px;
     }
     .myname > h2 > a, .myname > h2{
-        font-size: 0.8em;
+        font-size: 1em;
         padding: 0;
-        text-align: left;
+        text-align: center;
     }
     nav, nav > ul{
         justify-content: center;
         padding:1vw;
         margin:auto;
+    }
+
+    h2{
+        text-align: center;
     }
 }
