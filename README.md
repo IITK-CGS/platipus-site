@@ -104,6 +104,12 @@ $ hugo version
 hugo v0.121.2-6d5b44305eaa9d0a157946492a6f319da38de154+extended linux/amd64 BuildDate=2024-01-05T12:21:15Z VendorInfo=gohugoio
 ```
 
+On Windows, hugo can be installed using the PowerShell:
+
+```
+winget install Hugo.Hugo.Extended
+```
+
 Hugo Documentation is available [here](https://gohugo.io/getting-started/) with the template documentation available [here](https://gohugo.io/getting-started/directory-structure/).
 
 ## 2. Edit content, raw-data, data, static as appropriate
