@@ -1,6 +1,18 @@
 <tr>
   <td>
-    <span style="font-weight:bold"><a href="{{ .webpage }}">{{ .name }}</a></span> (<span style="font-size:0.8em; font-family:monospace;">{{ .email }}</span>)
-
+    <span style="font-weight:bold">
+      {{ if .webpage }}
+      <a href="{{ .webpage }}">{{ .name }}</a>
+      {{ else }}
+      {{ .name }}
+      {{ end }}
+    </span>
+    {{ if .email }}
+    <a href="mailto:{{ .email }}">
+      <span style="font-size:0.9em">
+        <i class="fas fa-envelope"></i>
+      </span>
+    </a>
+    {{ end }}
   </td>
 </tr>
