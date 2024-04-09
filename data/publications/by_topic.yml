@@ -109,8 +109,8 @@ Conflict Measurement:
   booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
   keywords: Morality, Decision Making, Conflict Measurement
   number: '45'
-  title: Measuring Moral Vacillations
-  url: ./publications/2023-measuring-moral-vacillations.pdf
+  title: Measuring Moral Vacillation
+  url: ./publications/2023-measuring-moral-vacillation.pdf
   volume: '45'
   year: '2023'
 Decision Making:
@@ -185,7 +185,7 @@ Decision Making:
   keywords: Decision Making, Social Cognition
   number: '45'
   title: Groups are Better than Individuals at Solving Optimum Stopping Problems
-  url: ./publications/2023-groups-better-individuals-solving-optimum-stopping-problems.pdf
+  url: ./publications/2023-groups-are-better-than-individuals-at-solving-optimum-stopping-problems.pdf
   volume: '45'
   year: '2023'
 - &id004
@@ -209,7 +209,7 @@ Decision Making:
     Models
   number: '45'
   title: Measuring the completeness of race models for perceptual decision-making
-  url: ./publications/2023-measuring-completeness-race-models-perceptual-decision-making.pdf
+  url: ./publications/2023-measuring-the-completeness-of-race-models-for-perceptual-decision-making.pdf
   volume: '45'
   year: '2023'
 - *id001
