@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>PLATIPUS - Probability, Logic And Theories of Information Processing Used Serendipitously</title>
-        <link>http://localhost:8000/publications/</link>
-        <description>Latest blog posts from PLATIPUS - Probability, Logic And Theories of Information Processing Used Serendipitously</description>
+        <title>PLATIPUS Lab</title>
+        <link>https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/publications/</link>
+        <description>Latest blog posts from PLATIPUS Lab</description>
 
         
         <language>en-us</language>
@@ -18,7 +18,7 @@
         
 
         
-        <atom:link href="http://localhost:8000/publications/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/publications/index.xml" rel="self" type="application/rss+xml" />
         
 
         
