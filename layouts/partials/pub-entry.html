@@ -1,6 +1,6 @@
 <p>
   <span style="font-weight: bold">
-    {{ if .url }}<a href="{{ .url }}">{{ .title }}.</a>
+    {{ if .url }}<a href="{{ relURL .url }}">{{ .title }}.</a>
     {{ else if .doi }}<a href="https://doi.org/{{ .doi }}">{{ .title }}.</a>
     {{ else }}
       {{ .title }}.

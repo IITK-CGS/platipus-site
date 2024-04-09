@@ -8,7 +8,7 @@ Affordance Learning:
   keywords: Affordance Learning, Reinforcement Learning, Deep Learning, Vision
   number: '46'
   title: Learning to Play Video Games with Intuitive Physics Priors [accepted]
-  url: /publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
+  url: ./publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
   volume: '46'
   year: '2024'
 Choice Models:
@@ -45,7 +45,7 @@ Choice Models:
   pages: 378–396
   publisher: Springer Science and Business Media LLC
   title: Over-precise Predictions Cannot Identify Good Choice Models
-  url: /publications/2022-over-precise-predictions-cannot-identify-good-choice-models.pdf
+  url: ./publications/2022-over-precise-predictions-cannot-identify-good-choice-models.pdf
   volume: '5'
   year: '2022'
 - &id002
@@ -60,7 +60,7 @@ Choice Models:
   month: '8'
   publisher: International Joint Conferences on Artificial Intelligence Organization
   title: Imprecise Oracles Impose Limits to Predictability in Supervised Learning
-  url: /publications/2021-imprecise-oracles-impose-limits-to-predictability-in-supervised-learning.pdf
+  url: ./publications/2021-imprecise-oracles-impose-limits-to-predictability-in-supervised-learning.pdf
   year: '2021'
 - &id011
   ENTRYTYPE: inproceedings
@@ -84,7 +84,7 @@ Choice Models:
   keywords: Choice Models, Risk, Learning from Experience Decision Making, Metascience
   number: '42'
   title: Limits on Predictability of Risky Choice Behavior
-  url: /publications/2020-limits-on-predictability-of-risky-choice-behavior.pdf
+  url: ./publications/2020-limits-on-predictability-of-risky-choice-behavior.pdf
   volume: '42'
   year: '2020'
 Conflict Measurement:
@@ -110,7 +110,7 @@ Conflict Measurement:
   keywords: Morality, Decision Making, Conflict Measurement
   number: '45'
   title: Measuring Moral Vacillations
-  url: /publications/2023-measuring-moral-vacillations.pdf
+  url: ./publications/2023-measuring-moral-vacillations.pdf
   volume: '45'
   year: '2023'
 Decision Making:
@@ -135,7 +135,7 @@ Decision Making:
     Vision
   number: '45'
   title: Measuring the time utility of mental effort
-  url: /publications/2023-measuring-the-time-utility-of-mental-effort.pdf
+  url: ./publications/2023-measuring-the-time-utility-of-mental-effort.pdf
   volume: '45'
   year: '2023'
 - &id007
@@ -158,7 +158,7 @@ Decision Making:
   keywords: Risk, Learning from Experience, Decision Making
   number: '45'
   title: Unpredictability shortens planning horizons
-  url: /publications/2023-unpredictability-shortens-planning-horizons.pdf
+  url: ./publications/2023-unpredictability-shortens-planning-horizons.pdf
   volume: '45'
   year: '2023'
 - &id016
@@ -185,7 +185,7 @@ Decision Making:
   keywords: Decision Making, Social Cognition
   number: '45'
   title: Groups are Better than Individuals at Solving Optimum Stopping Problems
-  url: /publications/2023-groups-better-individuals-solving-optimum-stopping-problems.pdf
+  url: ./publications/2023-groups-better-individuals-solving-optimum-stopping-problems.pdf
   volume: '45'
   year: '2023'
 - &id004
@@ -209,7 +209,7 @@ Decision Making:
     Models
   number: '45'
   title: Measuring the completeness of race models for perceptual decision-making
-  url: /publications/2023-measuring-completeness-race-models-perceptual-decision-making.pdf
+  url: ./publications/2023-measuring-completeness-race-models-perceptual-decision-making.pdf
   volume: '45'
   year: '2023'
 - *id001
@@ -235,7 +235,7 @@ Decision Making:
   number: '44'
   title: Selecting between visuomotor lotteries to measure mental effort in risky
     decisions
-  url: /publications/2022-selecting-between-visuomotor-lotteries-to-measure-mental-effort-in-risky-decisions.pdf
+  url: ./publications/2022-selecting-between-visuomotor-lotteries-to-measure-mental-effort-in-risky-decisions.pdf
   volume: '44'
   year: '2022'
 - *id002
@@ -257,7 +257,7 @@ Decision Making:
   keywords: Preferences, Decision Making, Learning from Experience
   number: '42'
   title: Inducing preference reversals by manipulating revealed preferences
-  url: /publications/2020-inducing-preference-reversals-by-manipulating-revealed-preferences.pdf
+  url: ./publications/2020-inducing-preference-reversals-by-manipulating-revealed-preferences.pdf
   volume: '42'
   year: '2020'
 Deep Learning:
@@ -290,7 +290,7 @@ Deep Learning:
   publisher: Association for Computing Machinery
   series: RecSys '23
   title: Using Learnable Physics for Real-Time Exercise Form Recommendations
-  url: /publications/2023-using-learnable-physics-for-real-time-exercise-form-recommendations.pdf
+  url: ./publications/2023-using-learnable-physics-for-real-time-exercise-form-recommendations.pdf
   year: '2023'
 - &id013
   ENTRYTYPE: article
@@ -307,7 +307,7 @@ Deep Learning:
   keywords: Deep Learning, Machine Learning, Metascience, Vision
   pages: e408
   title: Statistical prediction alone cannot identify good models of behavior
-  url: /publications/2023-deep-problems-with-neural-network-models-of-human-vision.pdf#page=58
+  url: ./publications/2023-deep-problems-with-neural-network-models-of-human-vision.pdf#page=58
   volume: '46'
   year: '2023'
 Drift Diffusion Models:
@@ -323,7 +323,7 @@ EEG:
   number: '46'
   title: How robust are fMRI and EEG data to alternative specifications in representational
     similarity analyses? [accepted]
-  url: /publications/2024-how-robust-are-fmri-and-eeg-data-to-alternative-specifications-in-representational-similarity-analyses.pdf
+  url: ./publications/2024-how-robust-are-fmri-and-eeg-data-to-alternative-specifications-in-representational-similarity-analyses.pdf
   volume: '46'
   year: '2024'
 Few-shot Learning:
@@ -344,7 +344,7 @@ Few-shot Learning:
   keywords: Incidental Learning, Few-shot Learning, Learning from Experience
   number: '43'
   title: 'One and known: Incidental probability judgments from very few samples'
-  url: /publications/2021-one-and-known-incidental-probability-judgments-from-very-few-samples.pdf
+  url: ./publications/2021-one-and-known-incidental-probability-judgments-from-very-few-samples.pdf
   volume: '43'
   year: '2021'
 Incidental Learning:
@@ -404,7 +404,7 @@ Multiple Object Tracking:
   month: '03'
   pages: 278-308
   title: Multiple Object Tracking Without Pre-attentive Indexing
-  url: /publications/2024-multiple-object-tracking-without-pre-attentive-indexing.pdf
+  url: ./publications/2024-multiple-object-tracking-without-pre-attentive-indexing.pdf
   volume: '8'
   year: '2024'
 - &id018
@@ -427,7 +427,7 @@ Multiple Object Tracking:
   keywords: Multiple Object Tracking, Vision
   number: '45'
   title: Tracking Multiple Objects without Indexes
-  url: /publications/2023-tracking-multiple-objects-without-indexes.pdf
+  url: ./publications/2023-tracking-multiple-objects-without-indexes.pdf
   volume: '45'
   year: '2023'
 Polarization:
@@ -456,7 +456,7 @@ Polarization:
   publisher: Springer Nature Switzerland
   title: Understanding Clique Formation in Social Networks - An Agent-Based Model
     of Social Preferences in Fixed and Dynamic Networks
-  url: /publications/2023-understanding-clique-formation-in-social-networks.pdf
+  url: ./publications/2023-understanding-clique-formation-in-social-networks.pdf
   year: '2023'
 Preferences:
 - *id015
@@ -495,7 +495,7 @@ Risk:
   number: '44'
   title: Sampling-based probability construction explains individual differences in
     risk preference
-  url: /publications/2022-sampling-based-probability-construction-explains-individual-differences-in-risk-preference.pdf
+  url: ./publications/2022-sampling-based-probability-construction-explains-individual-differences-in-risk-preference.pdf
   volume: '44'
   year: '2022'
 - *id009

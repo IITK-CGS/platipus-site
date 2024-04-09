@@ -1,5 +1,5 @@
 <tr class="current-member">
-  <td class="current-member-photo"><img src="/img/{{ .photo }}" width="240px" height="240px"></td>
+  <td class="current-member-photo"><img src="{{ printf "img/%s" .photo | relURL }}" width="240px" height="240px"></td>
   <td style="vertical-align:top; padding-top:12px;">
     <span style="font-weight:bold;">
       {{ if .webpage }}
