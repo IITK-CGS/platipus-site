@@ -1,8 +1,8 @@
 gourav:
   name: Gouravmoy Boruah
-  email:
+  email: gouravmoy22@iitk.ac.in
   summary:
-  photo:
+  photo: members/gourav.jpg
 sanket:
   name: Sanket Dutta
   email: sanketd21@iitk.ac.in
@@ -11,17 +11,33 @@ sanket:
   photo: members/sanket.jpg
 satwick:
   name: Satwick Sen Sharma
-  email:
+  email: satwick22@iitk.ac.in
   summary:
-  photo:
+  photo: members/satwick.jpg
 roshan:
   name: Roshan Jayarajan
-  email:
+  email: roshanj20@iitk.ac.in
   summary:
-  photo:
+  photo: members/roshan.jpg
 dharna:
   name: Dharna
   email: dharnap23@iitk.ac.in
   webpage: https://www.linkedin.com/in/dharna-prasad-38853320a/
   summary: Interested in social cognition.
   photo: members/dharna.jpg
+sovan:
+  name: Sovan Sahoo
+  email: sovansahoo23@iitk.ac.in
+  webpage: https://www.linkedin.com/in/sovan-sahoo-180a99153
+  summary: |
+    Kilo volts and amperes, is where my journey did start, <br/>
+    Now in cognitive systems, I play my part. <br/>
+    In machine learning's depths, I explore with all my heart, <br/>
+    Navigating human-computer realms,I am crafting my art.
+  photo: members/sovan.jpg
+vikram:
+  name: Vikram Kumar
+  email: vikramk23@iitk.ac.in
+  webpage: https://www.linkedin.com/in/vikram-kumar-2562b3201
+  summary: I am Vikram Kumar, an MTech student passionate about Artificial Intelligence, Machine Learning, and their implications in cognitive science. Under the mentorship of Prof. Dr. Nisheeth Srivastava.I'm currently delving into Item Response Theory, aiming to develop novel methodologies to enhance its application and address associated complexities.
+  photo: members/vikram.jpg

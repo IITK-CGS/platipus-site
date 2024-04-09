@@ -1,8 +1,15 @@
+abhishek:
+  name: Abhishek Jaiswal
+  webpage: https://www.cse.iitk.ac.in/users/abhijais/
+  email: abhi.jaiswal44@gmail.com
+  summary: I work on developing Cognitive game playing agents with Human Priors. The idea is to make game playing more like human playing which, in recent times, has systematically and significantly shifted to large scale pattern matching. Such agents would benefit from the same level of generalization that humans show and advance the goals of Aritifical General Intelligence.
+  photo: members/abhishek.jpg
 arjun:
   name: Arjun Mitra
-  email:
-  summary:
-  photo:
+  email: arjunmitra2010@gmail.com
+  summary: I was interested in figuring out the mysteries of our galaxy when I was young and took up Physics as my undergraduate degree. It turns out human beings are much more mysterious. Serendipitously, I am here studying human behavior. My thesis lies in the confluence of psychology and economics, where I study the structural and psychological factors influencing people's inclination to forego later rewards and choose 'now' using innovative gaming experimental paradigms and computational models.
+  photo: members/arjun.jpg
+  webpage: www.linkedin.com/in/arjunmitra1
 hariharan:
   name: Hariharan Purohit
   email: hariharan22@iitk.ac.in
@@ -11,11 +18,12 @@ hariharan:
   photo: members/hariharan.jpg
 revati:
   name: Revati Vijay Shivnekar
-  email:
-  summary:
-  photo:
+  email: revatis@iitk.ac.in
+  summary: When tackling tough choices, we often feel pulled in different directions. My broader goal is to characterize this feeling of conflict within such sticky situations. So far for my PhD thesis, my focus has been on developing easier experimental tools to track the process of reasoning to pick out any reliable indicators of conflict. I intend to expand my research into different reasoning contexts to better understand conflict in reasoning.
+  photo: members/revati.jpg
 tapas:
   name: Tapas Ranjan Rath
-  email:
-  summary:
-  photo:
+  email: rathtapasiitk@gmail.com
+  webpage: https://www.linkedin.com/in/tapas-rath/
+  summary: For my Ph.D., I am working on human decision-making, particularly formation, mental representation, reversals of preferences, and the role of attention in the phenomena in domains including and beyond consumer choice. I use behavioural experiments and Bayesian modelling approaches to decipher the cognitive mechanisms involved in decision-making. I spend my leisure time reading Indian philosophies.
+  photo: members/tapas.jpg
