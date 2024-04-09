@@ -1,4 +1,91 @@
+- '2024':
+  - ENTRYTYPE: inproceedings
+    ID: sharma2024robust
+    abstract: ''
+    author: Sharma, Satwick Sen and Boruah, Gouravmoy and Srivastava, Nisheeth
+    booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+    keywords: Specification Curve Analysis, fMRI, EEG, Metascience
+    number: '46'
+    title: How robust are fMRI and EEG data to alternative specifications in representational
+      similarity analyses? [accepted]
+    url: /publications/2024-how-robust-are-fmri-and-eeg-data-to-alternative-specifications-in-representational-similarity-analyses.pdf
+    volume: '46'
+    year: '2024'
+  - ENTRYTYPE: inproceedings
+    ID: jaiswal2024intuitive
+    abstract: ''
+    author: Jaiswal, Abhishek and Srivastava, Nisheeth
+    booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+    keywords: Affordance Learning, Reinforcement Learning, Deep Learning, Vision
+    number: '46'
+    title: Learning to Play Video Games with Intuitive Physics Priors [accepted]
+    url: /publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
+    volume: '46'
+    year: '2024'
+  - ENTRYTYPE: article
+    ID: ayare2024tracking
+    abstract: Multiple object tracking (MOT) involves simultaneous tracking of a certain
+      number of target objects amongst a larger set of objects as they all move unpredictably
+      over time. The prevalent explanation for successful target tracking by humans
+      in MOT involving visually identical objects is based on the Visual Indexing
+      Theory. This assumes that each target is indexed by a pointer using a non-conceptual
+      mechanism to maintain an object’s identity even as its properties change over
+      time. Thus, successful tracking requires successful indexing and the absence
+      of identification errors. Identity maintenance and successful tracking are measured
+      in terms of identification (ID) and tracking accuracy respectively, with higher
+      accuracy indicating better identity maintenance or better tracking. Existing
+      evidence suggests that humans have high tracking accuracy despite poor identification
+      accuracy, suggesting that it might be possible to perform MOT without indexing.
+      Our work adds to existing evidence for this position through two experiments,
+      and presents a computational model of multiple object tracking that does not
+      require indexes. Our empirical results show that identification accuracy is
+      aligned with tracking accuracy in humans for tracking up to three, but is lower
+      when tracking more objects. Our computational model of MOT without indexing
+      accounts for several empirical tracking accuracy patterns shown in earlier studies,
+      reproduces the dissociation between tracking and identification accuracy produced
+      earlier in the literature as well as in our experiments, and makes several novel
+      predictions.
+    author: Ayare, Shubhamkar and Srivastava, Nisheeth
+    doi: 10.1162/opmi_a_00128
+    issn: 2470-2986
+    journal: Open Mind
+    keywords: Multiple Object Tracking, Vision
+    month: '03'
+    pages: 278-308
+    title: Multiple Object Tracking Without Pre-attentive Indexing
+    url: /publications/2024-multiple-object-tracking-without-pre-attentive-indexing.pdf
+    volume: '8'
+    year: '2024'
 - '2023':
+  - ENTRYTYPE: inproceedings
+    ID: jaiswal2023exercise
+    abstract: Good posture and form are essential for safe and productive exercising.
+      Even in gym settings, trainers may not be readily available for feedback. Rehabilitation
+      therapies and fitness workouts can thus benefit from recommender systems that
+      provide real-time evaluation. In this paper, we present an algorithmic pipeline
+      that can diagnose problems in exercises technique and offer corrective recommendations,
+      with high sensitivity and specificity, in real-time. We use MediaPipe for pose
+      recognition, count repetitions using peak-prominence detection, and use a learnable
+      physics simulator to track motion evolution for each exercise. A test video
+      is diagnosed based on deviations from the prototypical learned motion using
+      statistical learning. The system is evaluated on six full and upper body exercises.
+      These real-time recommendations, counseled via low-cost equipment like smartphones,
+      will allow exercisers to rectify potential mistakes making self-practice feasible
+      while reducing the risk of workout injuries.
+    address: New York, NY, USA
+    author: Jaiswal, Abhishek and Chauhan, Gautam and Srivastava,      Nisheeth
+    booktitle: Proceedings of the 17th ACM Conference on Recommender Systems
+    doi: 10.1145/3604915.3608816
+    isbn: '9798400702419'
+    keywords: Recommendation Systems, Machine Learning, Deep Learning
+    location: Singapore, Singapore
+    numpages: '8'
+    pages: 688–695
+    publisher: Association for Computing Machinery
+    series: RecSys '23
+    title: Using Learnable Physics for Real-Time Exercise Form Recommendations
+    url: /publications/2023-using-learnable-physics-for-real-time-exercise-form-recommendations.pdf
+    year: '2023'
   - ENTRYTYPE: inbook
     ID: arya2023clique
     abstract: This paper presents results from in silico experiments trying to uncover
@@ -19,12 +106,12 @@
     doi: 10.1007/978-3-031-43129-6_23
     isbn: '9783031431296'
     issn: 1611-3349
-    keywords: Preference Learning, Agent-based Modeling, Social Preference
+    keywords: Preferences, Social Cognition, Polarization
     pages: 231–240
     publisher: Springer Nature Switzerland
     title: Understanding Clique Formation in Social Networks - An Agent-Based Model
       of Social Preferences in Fixed and Dynamic Networks
-    url: http://dx.doi.org/10.1007/978-3-031-43129-6_23
+    url: /publications/2023-understanding-clique-formation-in-social-networks.pdf
     year: '2023'
   - ENTRYTYPE: article
     ID: srivastava2023goodmodels
@@ -37,9 +124,10 @@
     author: Srivastava, Nisheeth and Sifar, Anjali and Srinivasan, Narayanan
     doi: 10.1017/S0140525X23001784
     journal: Behavioral and Brain Sciences
-    keywords: Prediction, Explanation
+    keywords: Deep Learning, Machine Learning, Metascience, Vision
     pages: e408
     title: Statistical prediction alone cannot identify good models of behavior
+    url: /publications/2023-deep-problems-with-neural-network-models-of-human-vision.pdf#page=58
     volume: '46'
     year: '2023'
   - ENTRYTYPE: inproceedings
@@ -58,10 +146,11 @@
       for current theories of mental effort, as well as for practical applications.
     author: Mehrotra, Samarth and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Mental Effort
+    keywords: Mental Effort Measurement, Decision Making, Learning from Experience,
+      Vision
     number: '45'
     title: Measuring the time utility of mental effort
-    url: https://escholarship.org/uc/item/4v69h6s9
+    url: /publications/2023-measuring-the-time-utility-of-mental-effort.pdf
     volume: '45'
     year: '2023'
   - ENTRYTYPE: inproceedings
@@ -80,10 +169,10 @@
       failures due to unpredictable resource shocks.
     author: Mitra, Arjun and Srivastava, Nisheeth and Srinivasan, Narayanan
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: ''
+    keywords: Risk, Learning from Experience, Decision Making
     number: '45'
     title: Unpredictability shortens planning horizons
-    url: https://escholarship.org/uc/item/31j9s6fk
+    url: /publications/2023-unpredictability-shortens-planning-horizons.pdf
     volume: '45'
     year: '2023'
   - ENTRYTYPE: inproceedings
@@ -109,7 +198,7 @@
     keywords: Decision Making, Social Cognition
     number: '45'
     title: Groups are Better than Individuals at Solving Optimum Stopping Problems
-    url: https://escholarship.org/uc/item/2pd5d3vk
+    url: /publications/2023-groups-better-individuals-solving-optimum-stopping-problems.pdf
     volume: '45'
     year: '2023'
   - ENTRYTYPE: inproceedings
@@ -128,10 +217,11 @@
       to disambiguate complex models of perceptual decision-making.
     author: Sifar, Anjali and Purohit, Hariharan and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: ''
+    keywords: Vision, Decision Making, Random Dot Motion Discrimination, Drift Diffusion
+      Models
     number: '45'
     title: Measuring the completeness of race models for perceptual decision-making
-    url: https://escholarship.org/uc/item/9np8k2fg
+    url: /publications/2023-measuring-completeness-race-models-perceptual-decision-making.pdf
     volume: '45'
     year: '2023'
   - ENTRYTYPE: inproceedings
@@ -152,10 +242,10 @@
       single accumulation to threshold process.
     author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Moral decision-making
+    keywords: Morality, Decision Making, Conflict Measurement
     number: '45'
     title: Measuring Moral Vacillations
-    url: https://escholarship.org/uc/item/2nq1c2dt
+    url: /publications/2023-measuring-moral-vacillations.pdf
     volume: '45'
     year: '2023'
   - ENTRYTYPE: inproceedings
@@ -174,10 +264,10 @@
       increasing number of targets in MOT with visually identical objects.
     author: Ayare, Shubhamkar and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Multiple Object Tracking, Visual Indexing Theory
+    keywords: Multiple Object Tracking, Vision
     number: '45'
     title: Tracking Multiple Objects without Indexes
-    url: https://escholarship.org/uc/item/29x6398w
+    url: /publications/2023-tracking-multiple-objects-without-indexes.pdf
     volume: '45'
     year: '2023'
 - '2022':
@@ -186,16 +276,16 @@
     abstract: 'Research in decision-making has recently begun to emphasize predictive
       accuracy as the dominant principle for designing and evaluating choice models.
       This emphasis has led to the development of increasingly more precise models
-      of humans’ risk preferences, as measured in certain experimental paradigms built
-      upon certainty equivalence testing. In this paper, we argue that the level of
-      precision attained by recent choice models is illusory, because human preferences
+      of humans'' risk preferences, as measured in certain experimental paradigms
+      built upon certainty equivalence testing. In this paper, we argue that the level
+      of precision attained by recent choice models is illusory, because human preferences
       are irreducibly noisy, so that overly precise predictions are unlikely to reflect
       reality. We support this argument by measuring intra-observer consistency in
       choice behavior in two common risk preference paradigms: decisions from description
       and experience. We find that while current choice models of decisions from experience
       align fairly well with the level of choice consistency seen in our experimental
       data, choice models for decisions from description are significantly more consistent
-      with humans’ choices than humans themselves are consistent with their own choices.
+      with humans'' choices than humans themselves are consistent with their own choices.
       We also found that models of decisions from description generalize poorly across
       sessions of choice responses from the same participants, whereas models of decisions
       from experience generalize quite well. A historical model comparison of 16 influential
@@ -207,13 +297,13 @@
     doi: 10.1007/s42113-022-00146-1
     issn: 2522-087X
     journal: Computational Brain & Behavior
-    keywords: ''
+    keywords: Choice Models, Risk, Learning from Experience, Metascience
     month: July
     number: '3'
     pages: 378–396
     publisher: Springer Science and Business Media LLC
     title: Over-precise Predictions Cannot Identify Good Choice Models
-    url: http://dx.doi.org/10.1007/s42113-022-00146-1
+    url: /publications/2022-over-precise-predictions-cannot-identify-good-choice-models.pdf
     volume: '5'
     year: '2022'
   - ENTRYTYPE: inproceedings
@@ -237,11 +327,11 @@
       elicitation methods.
     author: Ankoju, Bhanu Prakash and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: ''
+    keywords: Risk, Working Memory
     number: '44'
     title: Sampling-based probability construction explains individual differences
       in risk preference
-    url: https://escholarship.org/uc/item/9pm4x231
+    url: /publications/2022-sampling-based-probability-construction-explains-individual-differences-in-risk-preference.pdf
     volume: '44'
     year: '2022'
   - ENTRYTYPE: inproceedings
@@ -261,40 +351,26 @@
       effort-aversion, and also demonstrate adaptive adjustment of mental effort.
     author: Mehrotra, Samarth and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Decision Making, Mental Effort
+    keywords: Risk, Decision Making, Mental Effort Measurement, Learning from Experience
     number: '44'
     title: Selecting between visuomotor lotteries to measure mental effort in risky
       decisions
-    url: https://escholarship.org/uc/item/0j98760d
+    url: /publications/2022-selecting-between-visuomotor-lotteries-to-measure-mental-effort-in-risky-decisions.pdf
     volume: '44'
     year: '2022'
 - '2021':
   - ENTRYTYPE: inproceedings
     ID: sifar2021imprecise
-    abstract: 'Supervised learning operates on the premise that labels unambiguously
-      represent ground truth. This premise is reasonable in domains wherein a high
-      degree of consensus is easily possible for any given data record, eg in agreeing
-      on whether an image contains an elephant or not. However, there are several
-      domains wherein people disagree with each other on the appropriate label to
-      assign to a record, eg whether a tweet is toxic. We argue that data labeling
-      must be understood as a process with some degree of domain-dependent noise and
-      that any claims of predictive prowess must be sensitive to the degree of this
-      noise. We present a method for quantifying labeling noise in a particular domain
-      wherein people are seen to disagree with their own past selves on the appropriate
-      label to assign to a record: choices under prospect uncertainty. Our results
-      indicate that ‘state-of-the-art’choice models of decisions from description,
-      by failing to consider the intrinsic variability of human choice behavior, find
-      themselves in the odd position of predicting humans’ choices better than the
-      same humans’ own previous choices for the same problem. We conclude with observations
-      on how the predicament we empirically demonstrate in our work could be handled
-      in the practice of supervised learning.'
     author: Sifar, Anjali and Srivastava, Nisheeth
-    booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: ''
-    number: '43'
+    booktitle: Proceedings of the Thirtieth International Joint Conference on Artificial
+      Intelligence, IJCAI-21
+    doi: 10.24963/ijcai.2021/661
+    editor: 4834-4838
+    keywords: Choice Models, Decision Making, Metascience
+    month: '8'
+    publisher: International Joint Conferences on Artificial Intelligence Organization
     title: Imprecise Oracles Impose Limits to Predictability in Supervised Learning
-    url: https://www.cse.iitk.ac.in/users/nsrivast/sifar_imprecise_2021.pdf
-    volume: '43'
+    url: /publications/2021-imprecise-oracles-impose-limits-to-predictability-in-supervised-learning.pdf
     year: '2021'
   - ENTRYTYPE: inproceedings
     ID: singhal2021one
@@ -309,10 +385,10 @@
       70
     author: Singhal, Ishan and Srinivasan, Narayanan and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: ''
+    keywords: Incidental Learning, Few-shot Learning, Learning from Experience
     number: '43'
     title: 'One and known: Incidental probability judgments from very few samples'
-    url: https://escholarship.org/uc/item/9066z5gx
+    url: /publications/2021-one-and-known-incidental-probability-judgments-from-very-few-samples.pdf
     volume: '43'
     year: '2021'
 - '2020':
@@ -321,22 +397,43 @@
     abstract: 'Research in decision-making has recently begun to emphasize predictive
       accuracy as the dominant principle for designing and evaluating choice models.
       This emphasis has led to the development of increasingly more precise models
-      of humans’ risk preferences, as measured in certain experimental paradigms built
-      upon certainty equivalence testing. In this paper, we argue that the level of
-      precision attained by recent choice models is unexpected, because human preferences
+      of humans'' risk preferences, as measured in certain experimental paradigms
+      built upon certainty equivalence testing. In this paper, we argue that the level
+      of precision attained by recent choice models is unexpected, because human preferences
       are irreducibly noisy. We support this argument by conducting experiments to
       measure intra-observer consistency in choice behavior in two common risk preference
       paradigms: decisions from description and experience. We find that while current
       choice models of decisions from experience align fairly well with the upper
       limits of choice consistency seen in our experimental data, choice models for
-      decisions from description are significantly more consistent with humans’ choices
+      decisions from description are significantly more consistent with humans'' choices
       than the humans themselves are consistent with their own choices. We discuss
       some theoretical and practical implications of our results.'
     author: Sifar, Anjali and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: ''
+    keywords: Choice Models, Risk, Learning from Experience Decision Making, Metascience
     number: '42'
     title: Limits on Predictability of Risky Choice Behavior
-    url: https://www.cognitivesciencesociety.org/cogsci20/papers/0012/0012.pdf
+    url: /publications/2020-limits-on-predictability-of-risky-choice-behavior.pdf
+    volume: '42'
+    year: '2020'
+  - ENTRYTYPE: inproceedings
+    ID: balakrishnan2020inducing
+    abstract: It is currently difficult to test the validity of existing explanations
+      for the emergence of context-dependent preference reversals. This is because
+      these explanations are generally placed at the level of the process of evidence
+      accumulation, and across experimental paradigms, this process is unobservable.
+      In this paper, we propose a new experimental paradigm for eliciting preference
+      reversals, wherein the process of evidence accumulation is significantly observable.
+      Over a series of experiments, we successfully induce preference reversals for
+      arbitrary stimuli by showing participants sequences of stimuli comparisons with
+      pre-determined outcomes. Our findings partially support the view that context-sensitive
+      assimilation of a history of ordinal comparisons is sufficient to explain classic
+      context effects.
+    author: Balakrishnan, Harish and Jagga, Shobhit and Sriva and Srivastava, Nisheeth
+    booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+    keywords: Preferences, Decision Making, Learning from Experience
+    number: '42'
+    title: Inducing preference reversals by manipulating revealed preferences
+    url: /publications/2020-inducing-preference-reversals-by-manipulating-revealed-preferences.pdf
     volume: '42'
     year: '2020'
