@@ -14,4 +14,4 @@ Our lab hosts scholars interested in studying behavior across scales with a comp
 
 To know more about what our platypi do, you can visit the **[People](./people/)** page.
 
-To know more about the past and ongoing work in the lab, please visit the Publications page sorted **[by year](/publications/by-year)** or **[by topic](/publications/by-topic)**.
+To know more about the past and ongoing work in the lab, please visit the Publications page sorted **[by year](./publications/by-year/)** or **[by topic](./publications/by-topic/)**.
