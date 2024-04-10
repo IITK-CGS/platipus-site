@@ -3,8 +3,7 @@ title: "Publications (by year)"
 name: "By Year"
 menu:
   main:
-    name: "By Year"
-    parent: "Publications"
+    name: "Publications"
     weight: 10
 ---
 
