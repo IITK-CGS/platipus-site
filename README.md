@@ -10,8 +10,8 @@ PLATIPUS Lab Site
         - [For development](#for-development)
     - [2. How to add new members or delete old members?](#2-how-to-add-new-members-or-delete-old-members)
     - [3. How to add new publications?](#3-how-to-add-new-publications)
-    - [4. How to customize how the People page is displayed?](#4-how-to-customize-how-the-people-page-is-displayed)
-    - [5. How to customize the entries on the Publications page?](#5-how-to-customize-the-entries-on-the-publications-page)
+    - [4. How to change or customize how the People page is displayed?](#4-how-to-change-or-customize-how-the-people-page-is-displayed)
+    - [5. How to change or customize how the entries on the Publications page look?](#5-how-to-change-or-customize-how-the-entries-on-the-publications-page-look)
 - [Prerequisites for Building](#prerequisites-for-building)
     - [0. Clone this repository](#0-clone-this-repository)
     - [1. Install hugo](#1-install-hugo)
@@ -66,15 +66,15 @@ The by_topic sorting takes place through the keywords provided for the entries i
 
 The pdfs for the publications can themselves be placed in [./static/](./static/) directory or an appropriate sub-directory.
 
-## 4. How to customize how the People page is displayed?
+## 4. How to change or customize how the People page is displayed?
 
 The People page is generated using [./content/people.md](./content/people.md). This uses current\_members.html and past\_members.html shortcodes in [./layouts/shortcodes/](./layouts/shortcodes/).
 
 These shortcodes in turn use the current\_member.html and past\_member.html partials at [./layouts/partials/](./layouts/partials/).
 
-## 5. How to customize the entries on the Publications page?
+## 5. How to change or customize how the entries on the Publications page look?
 
-The Publications pages are generated using the by_year.md and by_topic.md pages in [./content/publications/](./content/publications/) directory. These respectively rely on 
+The Publications pages are generated using the by\_year.md and by\_topic.md pages in [./content/publications/](./content/publications/) directory. These respectively rely on 
 
 1. The templating code: by-year.html and by-topic.html shortcodes in [./layouts/shortcodes/](./layouts/shortcodes/) in the shortcodes and the partial [./layouts/partials/pub-entry.html](./layouts/partials/pub-entry.html). 
 2. The data in [./raw-data/publications/publications.bib](./raw-data/publications/publications.bib). Modifying this is discussed in Q3 above.
