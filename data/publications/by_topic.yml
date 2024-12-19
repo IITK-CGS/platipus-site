@@ -1,18 +1,18 @@
-Affordance Learning:
-- &id003
+Affordances:
+- &id002
   ENTRYTYPE: inproceedings
   ID: jaiswal2024intuitive
   abstract: ''
   author: Jaiswal, Abhishek and Srivastava, Nisheeth
   booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-  keywords: Affordance Learning, Reinforcement Learning, Deep Learning, Vision
+  keywords: Affordances, Reinforcement Learning, Deep Learning, Vision
   number: '46'
-  title: Learning to Play Video Games with Intuitive Physics Priors [accepted]
+  title: Learning to Play Video Games with Intuitive Physics Priors
   url: ./publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
   volume: '46'
   year: '2024'
 Choice Models:
-- &id008
+- &id007
   ENTRYTYPE: article
   ID: sifar2022overprecise
   abstract: 'Research in decision-making has recently begun to emphasize predictive
@@ -48,7 +48,7 @@ Choice Models:
   url: ./publications/2022-over-precise-predictions-cannot-identify-good-choice-models.pdf
   volume: '5'
   year: '2022'
-- &id002
+- &id001
   ENTRYTYPE: inproceedings
   ID: sifar2021imprecise
   author: Sifar, Anjali and Srivastava, Nisheeth
@@ -62,7 +62,7 @@ Choice Models:
   title: Imprecise Oracles Impose Limits to Predictability in Supervised Learning
   url: ./publications/2021-imprecise-oracles-impose-limits-to-predictability-in-supervised-learning.pdf
   year: '2021'
-- &id011
+- &id010
   ENTRYTYPE: inproceedings
   ID: sifar2020limits
   abstract: 'Research in decision-making has recently begun to emphasize predictive
@@ -87,34 +87,21 @@ Choice Models:
   url: ./publications/2020-limits-on-predictability-of-risky-choice-behavior.pdf
   volume: '42'
   year: '2020'
-Conflict Measurement:
-- &id001
-  ENTRYTYPE: inproceedings
-  ID: shivnekar2023measuring
-  abstract: Moral decision-making research is currently dominated by experimental
-    studies that employ dilemmas, situations where more than one course of action
-    may be justifiable. Humans almost characteristically vacillate between options
-    before reaching a conclusion while reasoning on such problems. Current experimental
-    designs disregard this vital aspect of moral decisions by only measuring judgments
-    produced at the end of reasoning. We present an experimental paradigm for measuring
-    moral conflict as a function of vacillations experienced by participants while
-    deliberating. We conducted two experiments to correlate our measure with two different
-    definitions of conflict prevalent in the literature. Across both experiments,
-    we found that people vacillate more on conflicting problems and that vacillations
-    correlate with their subjective feeling of conflict and confidence. We also found
-    that the pattern of deliberation uncovered by these vacillations is inconsistent
-    with currently favored models of moral reasoning and more consistent with a single
-    accumulation to threshold process.
-  author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
-  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-  keywords: Morality, Decision Making, Conflict Measurement
-  number: '45'
-  title: Measuring Moral Vacillation
-  url: ./publications/2023-measuring-moral-vacillation.pdf
-  volume: '45'
-  year: '2023'
 Decision Making:
-- &id006
+- &id013
+  ENTRYTYPE: article
+  ID: shivnekar2024vacillations
+  author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
+  doi: 10.1017/jdm.2024.15
+  issn: 1930-2975
+  journal: Judgment and Decision Making
+  keywords: Measurement, Decision Making, Morality
+  publisher: Cambridge University Press (CUP)
+  title: Measuring vacillations in reasoning
+  url: ./publications/2024-measuring-vacillations-in-reasoning.pdf
+  volume: '19'
+  year: '2024'
+- &id005
   ENTRYTYPE: inproceedings
   ID: mehrotra2023time
   abstract: The empirical measurement of mental effort is an important problem in
@@ -131,14 +118,13 @@ Decision Making:
     current theories of mental effort, as well as for practical applications.
   author: Mehrotra, Samarth and Srivastava, Nisheeth
   booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-  keywords: Mental Effort Measurement, Decision Making, Learning from Experience,
-    Vision
+  keywords: Measurement, Decision Making, Learning from Experience, Vision
   number: '45'
   title: Measuring the time utility of mental effort
   url: ./publications/2023-measuring-the-time-utility-of-mental-effort.pdf
   volume: '45'
   year: '2023'
-- &id007
+- &id006
   ENTRYTYPE: inproceedings
   ID: mitra2023unpredictability
   abstract: Recent research has identified intertemporal impulsivity as a critical
@@ -161,7 +147,7 @@ Decision Making:
   url: ./publications/2023-unpredictability-shortens-planning-horizons.pdf
   volume: '45'
   year: '2023'
-- &id016
+- &id017
   ENTRYTYPE: inproceedings
   ID: laskar2023groups
   abstract: Many real-life decisions, such as booking a vacation or selecting a partner,
@@ -188,7 +174,7 @@ Decision Making:
   url: ./publications/2023-groups-are-better-than-individuals-at-solving-optimum-stopping-problems.pdf
   volume: '45'
   year: '2023'
-- &id004
+- &id003
   ENTRYTYPE: inproceedings
   ID: sifar2023measuring
   abstract: Computational models of perceptual decision-making depend heavily on empirical
@@ -212,8 +198,32 @@ Decision Making:
   url: ./publications/2023-measuring-the-completeness-of-race-models-for-perceptual-decision-making.pdf
   volume: '45'
   year: '2023'
-- *id001
-- &id009
+- &id014
+  ENTRYTYPE: inproceedings
+  ID: shivnekar2023measuring
+  abstract: Moral decision-making research is currently dominated by experimental
+    studies that employ dilemmas, situations where more than one course of action
+    may be justifiable. Humans almost characteristically vacillate between options
+    before reaching a conclusion while reasoning on such problems. Current experimental
+    designs disregard this vital aspect of moral decisions by only measuring judgments
+    produced at the end of reasoning. We present an experimental paradigm for measuring
+    moral conflict as a function of vacillations experienced by participants while
+    deliberating. We conducted two experiments to correlate our measure with two different
+    definitions of conflict prevalent in the literature. Across both experiments,
+    we found that people vacillate more on conflicting problems and that vacillations
+    correlate with their subjective feeling of conflict and confidence. We also found
+    that the pattern of deliberation uncovered by these vacillations is inconsistent
+    with currently favored models of moral reasoning and more consistent with a single
+    accumulation to threshold process.
+  author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Morality, Decision Making, Measurement
+  number: '45'
+  title: Measuring Moral Vacillation
+  url: ./publications/2023-measuring-moral-vacillation.pdf
+  volume: '45'
+  year: '2023'
+- &id008
   ENTRYTYPE: inproceedings
   ID: mehrotra2022selecting
   abstract: It is intuitive to believe that humans take considerations of mental effort
@@ -231,15 +241,15 @@ Decision Making:
     adaptive adjustment of mental effort.
   author: Mehrotra, Samarth and Srivastava, Nisheeth
   booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-  keywords: Risk, Decision Making, Mental Effort Measurement, Learning from Experience
+  keywords: Risk, Decision Making, Measurement, Learning from Experience
   number: '44'
   title: Selecting between visuomotor lotteries to measure mental effort in risky
     decisions
   url: ./publications/2022-selecting-between-visuomotor-lotteries-to-measure-mental-effort-in-risky-decisions.pdf
   volume: '44'
   year: '2022'
-- *id002
-- &id010
+- *id001
+- &id009
   ENTRYTYPE: inproceedings
   ID: balakrishnan2020inducing
   abstract: It is currently difficult to test the validity of existing explanations
@@ -261,8 +271,8 @@ Decision Making:
   volume: '42'
   year: '2020'
 Deep Learning:
-- *id003
-- &id012
+- *id002
+- &id011
   ENTRYTYPE: inproceedings
   ID: jaiswal2023exercise
   abstract: Good posture and form are essential for safe and productive exercising.
@@ -292,7 +302,7 @@ Deep Learning:
   title: Using Learnable Physics for Real-Time Exercise Form Recommendations
   url: ./publications/2023-using-learnable-physics-for-real-time-exercise-form-recommendations.pdf
   year: '2023'
-- &id013
+- &id012
   ENTRYTYPE: article
   ID: srivastava2023goodmodels
   abstract: The dissociation between statistical prediction and scientific explanation
@@ -311,9 +321,9 @@ Deep Learning:
   volume: '46'
   year: '2023'
 Drift Diffusion Models:
-- *id004
+- *id003
 EEG:
-- &id014
+- &id015
   ENTRYTYPE: inproceedings
   ID: sharma2024robust
   abstract: ''
@@ -322,12 +332,12 @@ EEG:
   keywords: Specification Curve Analysis, fMRI, EEG, Metascience
   number: '46'
   title: How robust are fMRI and EEG data to alternative specifications in representational
-    similarity analyses? [accepted]
+    similarity analyses?
   url: ./publications/2024-how-robust-are-fmri-and-eeg-data-to-alternative-specifications-in-representational-similarity-analyses.pdf
   volume: '46'
   year: '2024'
 Few-shot Learning:
-- &id005
+- &id004
   ENTRYTYPE: inproceedings
   ID: singhal2021one
   abstract: We test whether people are able to reason based on incidentally acquired
@@ -348,32 +358,35 @@ Few-shot Learning:
   volume: '43'
   year: '2021'
 Incidental Learning:
-- *id005
+- *id004
 Learning from Experience:
+- *id005
 - *id006
 - *id007
 - *id008
+- *id004
 - *id009
-- *id005
-- *id010
 Learning from Experience Decision Making:
-- *id011
+- *id010
 Machine Learning:
-- *id012
-- *id013
-Mental Effort Measurement:
-- *id006
-- *id009
-Metascience:
-- *id014
-- *id013
-- *id008
-- *id002
 - *id011
-Morality:
+- *id012
+Measurement:
+- *id013
+- *id005
+- *id014
+- *id008
+Metascience:
+- *id015
+- *id012
+- *id007
 - *id001
+- *id010
+Morality:
+- *id013
+- *id014
 Multiple Object Tracking:
-- &id017
+- &id018
   ENTRYTYPE: article
   ID: ayare2024tracking
   abstract: Multiple object tracking (MOT) involves simultaneous tracking of a certain
@@ -407,7 +420,7 @@ Multiple Object Tracking:
   url: ./publications/2024-multiple-object-tracking-without-pre-attentive-indexing.pdf
   volume: '8'
   year: '2024'
-- &id018
+- &id019
   ENTRYTYPE: inproceedings
   ID: ayare2023tracking
   abstract: Computational models of multiple object tracking (MOT) presuppose the
@@ -431,7 +444,7 @@ Multiple Object Tracking:
   volume: '45'
   year: '2023'
 Polarization:
-- &id015
+- &id016
   ENTRYTYPE: inbook
   ID: arya2023clique
   abstract: This paper presents results from in silico experiments trying to uncover
@@ -459,18 +472,18 @@ Polarization:
   url: ./publications/2023-understanding-clique-formation-in-social-networks.pdf
   year: '2023'
 Preferences:
-- *id015
-- *id010
+- *id016
+- *id009
 Random Dot Motion Discrimination:
-- *id004
-Recommendation Systems:
-- *id012
-Reinforcement Learning:
 - *id003
+Recommendation Systems:
+- *id011
+Reinforcement Learning:
+- *id002
 Risk:
+- *id006
 - *id007
-- *id008
-- &id019
+- &id020
   ENTRYTYPE: inproceedings
   ID: ankoju2022sampling
   abstract: Contemporary models of subjective probability distortions assume that
@@ -498,21 +511,21 @@ Risk:
   url: ./publications/2022-sampling-based-probability-construction-explains-individual-differences-in-risk-preference.pdf
   volume: '44'
   year: '2022'
-- *id009
-- *id011
+- *id008
+- *id010
 Social Cognition:
-- *id015
 - *id016
-Specification Curve Analysis:
-- *id014
-Vision:
-- *id003
 - *id017
-- *id013
-- *id006
-- *id004
+Specification Curve Analysis:
+- *id015
+Vision:
+- *id002
 - *id018
-Working Memory:
+- *id012
+- *id005
+- *id003
 - *id019
+Working Memory:
+- *id020
 fMRI:
-- *id014
+- *id015

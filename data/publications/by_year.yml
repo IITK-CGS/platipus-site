@@ -28,7 +28,7 @@
     abstract: ''
     author: Jaiswal, Abhishek and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Affordance Learning, Reinforcement Learning, Deep Learning, Vision
+    keywords: Affordances, Reinforcement Learning, Deep Learning, Vision
     number: '46'
     title: Learning to Play Video Games with Intuitive Physics Priors
     url: ./publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
@@ -158,8 +158,7 @@
       for current theories of mental effort, as well as for practical applications.
     author: Mehrotra, Samarth and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Mental Effort Measurement, Decision Making, Learning from Experience,
-      Vision
+    keywords: Measurement, Decision Making, Learning from Experience, Vision
     number: '45'
     title: Measuring the time utility of mental effort
     url: ./publications/2023-measuring-the-time-utility-of-mental-effort.pdf
@@ -254,7 +253,7 @@
       single accumulation to threshold process.
     author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Morality, Decision Making, Conflict Measurement
+    keywords: Morality, Decision Making, Measurement
     number: '45'
     title: Measuring Moral Vacillation
     url: ./publications/2023-measuring-moral-vacillation.pdf
@@ -363,7 +362,7 @@
       effort-aversion, and also demonstrate adaptive adjustment of mental effort.
     author: Mehrotra, Samarth and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Risk, Decision Making, Mental Effort Measurement, Learning from Experience
+    keywords: Risk, Decision Making, Measurement, Learning from Experience
     number: '44'
     title: Selecting between visuomotor lotteries to measure mental effort in risky
       decisions
