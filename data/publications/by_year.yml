@@ -1,4 +1,16 @@
 - '2024':
+  - ENTRYTYPE: article
+    ID: shivnekar2024vacillations
+    author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
+    doi: 10.1017/jdm.2024.15
+    issn: 1930-2975
+    journal: Judgment and Decision Making
+    keywords: Measurement, Decision Making, Morality
+    publisher: Cambridge University Press (CUP)
+    title: Measuring vacillations in reasoning
+    url: ./publications/2024-measuring-vacillations-in-reasoning.pdf
+    volume: '19'
+    year: '2024'
   - ENTRYTYPE: inproceedings
     ID: sharma2024robust
     abstract: ''
@@ -7,7 +19,7 @@
     keywords: Specification Curve Analysis, fMRI, EEG, Metascience
     number: '46'
     title: How robust are fMRI and EEG data to alternative specifications in representational
-      similarity analyses? [accepted]
+      similarity analyses?
     url: ./publications/2024-how-robust-are-fmri-and-eeg-data-to-alternative-specifications-in-representational-similarity-analyses.pdf
     volume: '46'
     year: '2024'
@@ -18,7 +30,7 @@
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
     keywords: Affordance Learning, Reinforcement Learning, Deep Learning, Vision
     number: '46'
-    title: Learning to Play Video Games with Intuitive Physics Priors [accepted]
+    title: Learning to Play Video Games with Intuitive Physics Priors
     url: ./publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
     volume: '46'
     year: '2024'
