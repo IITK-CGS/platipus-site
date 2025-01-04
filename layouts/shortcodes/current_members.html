@@ -4,25 +4,33 @@
     {{ partial "current_member.html" $data }}
   {{ end }}
 </table>
+{{ if (lt 0 (len $.Site.Data.current_members.postdoc)) }}
 <h2>Postdoctoral Fellows</h2>
+{{ end }}
 <table class="current-member-table">
   {{ range $key, $data := $.Site.Data.current_members.postdoc }}
     {{ partial "current_member.html" $data }}
   {{ end }}
 </table>
+{{ if (lt 0 (len $.Site.Data.current_members.phd)) }}
 <h2>Doctoral Students</h2>
+{{ end }}
 <table class="current-member-table">
   {{ range $key, $data := $.Site.Data.current_members.phd }}
     {{ partial "current_member.html" $data }}
   {{ end }}
 </table>
+{{ if (lt 0 (len $.Site.Data.current_members.masters)) }}
 <h2>Master's Students</h2>
+{{ end }}
 <table class="current-member-table">
   {{ range $key, $data := $.Site.Data.current_members.masters }}
     {{ partial "current_member.html" $data }}
   {{ end }}
 </table>
+{{ if (lt 0 (len $.Site.Data.current_members.ra)) }}
 <h2>Research Assistants</h2>
+{{ end }}
 <table class="current-member-table">
   {{ range $key, $data := $.Site.Data.current_members.ra }}
     {{ partial "current_member.html" $data }}
