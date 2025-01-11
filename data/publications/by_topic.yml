@@ -11,8 +11,52 @@ Affordances:
   url: ./publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
   volume: '46'
   year: '2024'
+Attention:
+- &id020
+  ENTRYTYPE: article
+  ID: ayare2024tracking
+  abstract: Multiple object tracking (MOT) involves simultaneous tracking of a certain
+    number of target objects amongst a larger set of objects as they all move unpredictably
+    over time. The prevalent explanation for successful target tracking by humans
+    in MOT involving visually identical objects is based on the Visual Indexing Theory.
+    This assumes that each target is indexed by a pointer using a non-conceptual mechanism
+    to maintain an object’s identity even as its properties change over time. Thus,
+    successful tracking requires successful indexing and the absence of identification
+    errors. Identity maintenance and successful tracking are measured in terms of
+    identification (ID) and tracking accuracy respectively, with higher accuracy indicating
+    better identity maintenance or better tracking. Existing evidence suggests that
+    humans have high tracking accuracy despite poor identification accuracy, suggesting
+    that it might be possible to perform MOT without indexing. Our work adds to existing
+    evidence for this position through two experiments, and presents a computational
+    model of multiple object tracking that does not require indexes. Our empirical
+    results show that identification accuracy is aligned with tracking accuracy in
+    humans for tracking up to three, but is lower when tracking more objects. Our
+    computational model of MOT without indexing accounts for several empirical tracking
+    accuracy patterns shown in earlier studies, reproduces the dissociation between
+    tracking and identification accuracy produced earlier in the literature as well
+    as in our experiments, and makes several novel predictions.
+  author: Ayare, Shubhamkar and Srivastava, Nisheeth
+  doi: 10.1162/opmi_a_00128
+  issn: 2470-2986
+  journal: Open Mind
+  keywords: Multiple Object Tracking, Vision, Attention
+  month: '03'
+  pages: 278-308
+  title: Multiple Object Tracking Without Pre-attentive Indexing
+  url: ./publications/2024-multiple-object-tracking-without-pre-attentive-indexing.pdf
+  volume: '8'
+  year: '2024'
+- &id012
+  ENTRYTYPE: mastersthesis
+  ID: mehrotra2023effort
+  author: Samarth Mehrotra
+  keywords: Mental Effort, Measurement, Attention, MS Theses
+  school: Indian Institute of Technology Kanpur
+  title: Measuring Mental Effort with Visual estimation tasks
+  url: ./publications/2023-measuring-mental-effort-with-visual-estimation-tasks-thesis.pdf
+  year: '2023'
 Choice Models:
-- &id007
+- &id008
   ENTRYTYPE: article
   ID: sifar2022overprecise
   abstract: 'Research in decision-making has recently begun to emphasize predictive
@@ -62,7 +106,7 @@ Choice Models:
   title: Imprecise Oracles Impose Limits to Predictability in Supervised Learning
   url: ./publications/2021-imprecise-oracles-impose-limits-to-predictability-in-supervised-learning.pdf
   year: '2021'
-- &id010
+- &id011
   ENTRYTYPE: inproceedings
   ID: sifar2020limits
   abstract: 'Research in decision-making has recently begun to emphasize predictive
@@ -88,7 +132,16 @@ Choice Models:
   volume: '42'
   year: '2020'
 Decision Making:
-- &id013
+- &id015
+  ENTRYTYPE: phdthesis
+  ID: shivnekar2024conflict
+  author: Shivnekar, Revati Vijay
+  keywords: Measurement, Decision Making, Morality, PhD Theses
+  school: Indian Institute of Technology Kanpur
+  title: Tracking Conflict in Reasoning
+  url: ./publications/2024-tracking-conflict-in-reasoning-thesis.pdf
+  year: '2024'
+- &id016
   ENTRYTYPE: article
   ID: shivnekar2024vacillations
   author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
@@ -101,7 +154,7 @@ Decision Making:
   url: ./publications/2024-measuring-vacillations-in-reasoning.pdf
   volume: '19'
   year: '2024'
-- &id005
+- &id006
   ENTRYTYPE: inproceedings
   ID: mehrotra2023time
   abstract: The empirical measurement of mental effort is an important problem in
@@ -124,7 +177,7 @@ Decision Making:
   url: ./publications/2023-measuring-the-time-utility-of-mental-effort.pdf
   volume: '45'
   year: '2023'
-- &id006
+- &id007
   ENTRYTYPE: inproceedings
   ID: mitra2023unpredictability
   abstract: Recent research has identified intertemporal impulsivity as a critical
@@ -147,7 +200,7 @@ Decision Making:
   url: ./publications/2023-unpredictability-shortens-planning-horizons.pdf
   volume: '45'
   year: '2023'
-- &id017
+- &id024
   ENTRYTYPE: inproceedings
   ID: laskar2023groups
   abstract: Many real-life decisions, such as booking a vacation or selecting a partner,
@@ -198,7 +251,7 @@ Decision Making:
   url: ./publications/2023-measuring-the-completeness-of-race-models-for-perceptual-decision-making.pdf
   volume: '45'
   year: '2023'
-- &id014
+- &id017
   ENTRYTYPE: inproceedings
   ID: shivnekar2023measuring
   abstract: Moral decision-making research is currently dominated by experimental
@@ -223,7 +276,7 @@ Decision Making:
   url: ./publications/2023-measuring-moral-vacillation.pdf
   volume: '45'
   year: '2023'
-- &id008
+- &id009
   ENTRYTYPE: inproceedings
   ID: mehrotra2022selecting
   abstract: It is intuitive to believe that humans take considerations of mental effort
@@ -249,7 +302,7 @@ Decision Making:
   volume: '44'
   year: '2022'
 - *id001
-- &id009
+- &id010
   ENTRYTYPE: inproceedings
   ID: balakrishnan2020inducing
   abstract: It is currently difficult to test the validity of existing explanations
@@ -272,7 +325,7 @@ Decision Making:
   year: '2020'
 Deep Learning:
 - *id002
-- &id011
+- &id013
   ENTRYTYPE: inproceedings
   ID: jaiswal2023exercise
   abstract: Good posture and form are essential for safe and productive exercising.
@@ -302,7 +355,7 @@ Deep Learning:
   title: Using Learnable Physics for Real-Time Exercise Form Recommendations
   url: ./publications/2023-using-learnable-physics-for-real-time-exercise-form-recommendations.pdf
   year: '2023'
-- &id012
+- &id014
   ENTRYTYPE: article
   ID: srivastava2023goodmodels
   abstract: The dissociation between statistical prediction and scientific explanation
@@ -323,7 +376,7 @@ Deep Learning:
 Drift Diffusion Models:
 - *id003
 EEG:
-- &id015
+- &id018
   ENTRYTYPE: inproceedings
   ID: sharma2024robust
   abstract: ''
@@ -358,69 +411,75 @@ Few-shot Learning:
   volume: '43'
   year: '2021'
 Incidental Learning:
+- &id005
+  ENTRYTYPE: mastersthesis
+  ID: thankachan2024statistical
+  author: Anish Thankachan
+  keywords: Statistical Learning, Incidental Learning, Learning, MS Theses
+  school: Indian Institute of Technology Kanpur
+  title: Incidental statistical learning and its limitations
+  url: ./publications/2024-incidental-statistical-learning-and-its-limitations-thesis.pdf
+  year: '2024'
 - *id004
-Learning from Experience:
+Learning:
 - *id005
+Learning from Experience:
 - *id006
 - *id007
 - *id008
-- *id004
 - *id009
-Learning from Experience Decision Making:
+- *id004
 - *id010
-Machine Learning:
+Learning from Experience Decision Making:
 - *id011
-- *id012
-Measurement:
-- *id013
+MS Theses:
+- &id019
+  ENTRYTYPE: mastersthesis
+  ID: ayare2024tracking
+  author: Shubhamkar Bajrang Ayare
+  keywords: Multiple Object Tracking, Vision, MS Theses
+  school: Indian Institute of Technology Kanpur
+  title: Multiple Object Tracking Without Pre-attentive Indexing
+  url: ./publications/2024-multiple-object-tracking-without-pre-attentive-indexing-thesis.pdf
+  year: '2024'
 - *id005
+- *id012
+- &id022
+  ENTRYTYPE: mastersthesis
+  ID: ankoju2023sampling
+  author: Ankoju, Bhanu Prakash
+  keywords: Risk, Working Memory, Prospect Theory, Probability Judgments, MS Theses
+  school: Indian Institute of Technology Kanpur
+  title: Sampling-based probability construction explains individual differences in
+    risk preference
+  url: ./publications/2022-sampling-based-probability-construction-explains-individual-differences-in-risk-preference-thesis.pdf
+  year: '2022'
+Machine Learning:
+- *id013
+- *id014
+Measurement:
+- *id015
+- *id016
+- *id012
+- *id006
+- *id017
+- *id009
+Mental Effort:
+- *id012
+Metascience:
+- *id018
 - *id014
 - *id008
-Metascience:
-- *id015
-- *id012
-- *id007
 - *id001
-- *id010
+- *id011
 Morality:
-- *id013
-- *id014
+- *id015
+- *id016
+- *id017
 Multiple Object Tracking:
-- &id018
-  ENTRYTYPE: article
-  ID: ayare2024tracking
-  abstract: Multiple object tracking (MOT) involves simultaneous tracking of a certain
-    number of target objects amongst a larger set of objects as they all move unpredictably
-    over time. The prevalent explanation for successful target tracking by humans
-    in MOT involving visually identical objects is based on the Visual Indexing Theory.
-    This assumes that each target is indexed by a pointer using a non-conceptual mechanism
-    to maintain an object’s identity even as its properties change over time. Thus,
-    successful tracking requires successful indexing and the absence of identification
-    errors. Identity maintenance and successful tracking are measured in terms of
-    identification (ID) and tracking accuracy respectively, with higher accuracy indicating
-    better identity maintenance or better tracking. Existing evidence suggests that
-    humans have high tracking accuracy despite poor identification accuracy, suggesting
-    that it might be possible to perform MOT without indexing. Our work adds to existing
-    evidence for this position through two experiments, and presents a computational
-    model of multiple object tracking that does not require indexes. Our empirical
-    results show that identification accuracy is aligned with tracking accuracy in
-    humans for tracking up to three, but is lower when tracking more objects. Our
-    computational model of MOT without indexing accounts for several empirical tracking
-    accuracy patterns shown in earlier studies, reproduces the dissociation between
-    tracking and identification accuracy produced earlier in the literature as well
-    as in our experiments, and makes several novel predictions.
-  author: Ayare, Shubhamkar and Srivastava, Nisheeth
-  doi: 10.1162/opmi_a_00128
-  issn: 2470-2986
-  journal: Open Mind
-  keywords: Multiple Object Tracking, Vision
-  month: '03'
-  pages: 278-308
-  title: Multiple Object Tracking Without Pre-attentive Indexing
-  url: ./publications/2024-multiple-object-tracking-without-pre-attentive-indexing.pdf
-  volume: '8'
-  year: '2024'
-- &id019
+- *id019
+- *id020
+- &id025
   ENTRYTYPE: inproceedings
   ID: ayare2023tracking
   abstract: Computational models of multiple object tracking (MOT) presuppose the
@@ -443,8 +502,10 @@ Multiple Object Tracking:
   url: ./publications/2023-tracking-multiple-objects-without-indexes.pdf
   volume: '45'
   year: '2023'
+PhD Theses:
+- *id015
 Polarization:
-- &id016
+- &id021
   ENTRYTYPE: inbook
   ID: arya2023clique
   abstract: This paper presents results from in silico experiments trying to uncover
@@ -472,18 +533,10 @@ Polarization:
   url: ./publications/2023-understanding-clique-formation-in-social-networks.pdf
   year: '2023'
 Preferences:
-- *id016
-- *id009
-Random Dot Motion Discrimination:
-- *id003
-Recommendation Systems:
-- *id011
-Reinforcement Learning:
-- *id002
-Risk:
-- *id006
-- *id007
-- &id020
+- *id021
+- *id010
+Probability Judgements:
+- &id023
   ENTRYTYPE: inproceedings
   ID: ankoju2022sampling
   abstract: Contemporary models of subjective probability distortions assume that
@@ -504,28 +557,48 @@ Risk:
     distortions seen across different elicitation methods.
   author: Ankoju, Bhanu Prakash and Srivastava, Nisheeth
   booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-  keywords: Risk, Working Memory
+  keywords: Risk, Working Memory, Prospect Theory, Probability Judgements
   number: '44'
   title: Sampling-based probability construction explains individual differences in
     risk preference
   url: ./publications/2022-sampling-based-probability-construction-explains-individual-differences-in-risk-preference.pdf
   volume: '44'
   year: '2022'
+Probability Judgments:
+- *id022
+Prospect Theory:
+- *id022
+- *id023
+Random Dot Motion Discrimination:
+- *id003
+Recommendation Systems:
+- *id013
+Reinforcement Learning:
+- *id002
+Risk:
+- *id022
+- *id007
 - *id008
-- *id010
+- *id023
+- *id009
+- *id011
 Social Cognition:
-- *id016
-- *id017
+- *id021
+- *id024
 Specification Curve Analysis:
-- *id015
+- *id018
+Statistical Learning:
+- *id005
 Vision:
 - *id002
-- *id018
-- *id012
-- *id005
-- *id003
 - *id019
-Working Memory:
 - *id020
+- *id014
+- *id006
+- *id003
+- *id025
+Working Memory:
+- *id022
+- *id023
 fMRI:
-- *id015
+- *id018

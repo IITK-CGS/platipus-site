@@ -1,4 +1,12 @@
 - '2024':
+  - ENTRYTYPE: phdthesis
+    ID: shivnekar2024conflict
+    author: Shivnekar, Revati Vijay
+    keywords: Measurement, Decision Making, Morality, PhD Theses
+    school: Indian Institute of Technology Kanpur
+    title: Tracking Conflict in Reasoning
+    url: ./publications/2024-tracking-conflict-in-reasoning-thesis.pdf
+    year: '2024'
   - ENTRYTYPE: article
     ID: shivnekar2024vacillations
     author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
@@ -34,6 +42,22 @@
     url: ./publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
     volume: '46'
     year: '2024'
+  - ENTRYTYPE: mastersthesis
+    ID: ayare2024tracking
+    author: Shubhamkar Bajrang Ayare
+    keywords: Multiple Object Tracking, Vision, MS Theses
+    school: Indian Institute of Technology Kanpur
+    title: Multiple Object Tracking Without Pre-attentive Indexing
+    url: ./publications/2024-multiple-object-tracking-without-pre-attentive-indexing-thesis.pdf
+    year: '2024'
+  - ENTRYTYPE: mastersthesis
+    ID: thankachan2024statistical
+    author: Anish Thankachan
+    keywords: Statistical Learning, Incidental Learning, Learning, MS Theses
+    school: Indian Institute of Technology Kanpur
+    title: Incidental statistical learning and its limitations
+    url: ./publications/2024-incidental-statistical-learning-and-its-limitations-thesis.pdf
+    year: '2024'
   - ENTRYTYPE: article
     ID: ayare2024tracking
     abstract: Multiple object tracking (MOT) involves simultaneous tracking of a certain
@@ -61,7 +85,7 @@
     doi: 10.1162/opmi_a_00128
     issn: 2470-2986
     journal: Open Mind
-    keywords: Multiple Object Tracking, Vision
+    keywords: Multiple Object Tracking, Vision, Attention
     month: '03'
     pages: 278-308
     title: Multiple Object Tracking Without Pre-attentive Indexing
@@ -69,6 +93,14 @@
     volume: '8'
     year: '2024'
 - '2023':
+  - ENTRYTYPE: mastersthesis
+    ID: mehrotra2023effort
+    author: Samarth Mehrotra
+    keywords: Mental Effort, Measurement, Attention, MS Theses
+    school: Indian Institute of Technology Kanpur
+    title: Measuring Mental Effort with Visual estimation tasks
+    url: ./publications/2023-measuring-mental-effort-with-visual-estimation-tasks-thesis.pdf
+    year: '2023'
   - ENTRYTYPE: inproceedings
     ID: jaiswal2023exercise
     abstract: Good posture and form are essential for safe and productive exercising.
@@ -282,6 +314,15 @@
     volume: '45'
     year: '2023'
 - '2022':
+  - ENTRYTYPE: mastersthesis
+    ID: ankoju2023sampling
+    author: Ankoju, Bhanu Prakash
+    keywords: Risk, Working Memory, Prospect Theory, Probability Judgments, MS Theses
+    school: Indian Institute of Technology Kanpur
+    title: Sampling-based probability construction explains individual differences
+      in risk preference
+    url: ./publications/2022-sampling-based-probability-construction-explains-individual-differences-in-risk-preference-thesis.pdf
+    year: '2022'
   - ENTRYTYPE: article
     ID: sifar2022overprecise
     abstract: 'Research in decision-making has recently begun to emphasize predictive
@@ -338,7 +379,7 @@
       elicitation methods.
     author: Ankoju, Bhanu Prakash and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Risk, Working Memory
+    keywords: Risk, Working Memory, Prospect Theory, Probability Judgements
     number: '44'
     title: Sampling-based probability construction explains individual differences
       in risk preference
