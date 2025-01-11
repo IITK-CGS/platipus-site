@@ -17,6 +17,11 @@
     {{ if .booktitle }} {{ .booktitle }},
     {{ else if .journal }} {{ .journal }},
     {{ end }}
+    {{ if strings.Contains .ENTRYTYPE "phdthesis" }}
+    <span style="font-style:italic;">PhD Thesis.</span>
+    {{ else if strings.Contains .ENTRYTYPE "mastersthesis" }}
+    <span style="font-style:italic;">Masters Thesis.</span>
+    {{ end }}
     {{.year}}
   </span>
   {{ end }}
