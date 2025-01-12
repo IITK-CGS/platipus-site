@@ -5,14 +5,14 @@ Affordances:
   abstract: ''
   author: Jaiswal, Abhishek and Srivastava, Nisheeth
   booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-  keywords: Affordances, Reinforcement Learning, Deep Learning, Vision
+  keywords: Affordances, Reinforcement Learning, Deep Learning, Learning, Vision
   number: '46'
   title: Learning to Play Video Games with Intuitive Physics Priors
   url: ./publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
   volume: '46'
   year: '2024'
 Attention:
-- &id020
+- &id022
   ENTRYTYPE: article
   ID: ayare2024tracking
   abstract: Multiple object tracking (MOT) involves simultaneous tracking of a certain
@@ -49,7 +49,7 @@ Attention:
 - &id012
   ENTRYTYPE: mastersthesis
   ID: mehrotra2023effort
-  author: Samarth Mehrotra
+  author: Mehrotra, Samarth
   keywords: Mental Effort, Measurement, Attention, MS Theses
   school: Indian Institute of Technology Kanpur
   title: Measuring Mental Effort with Visual estimation tasks
@@ -200,7 +200,7 @@ Decision Making:
   url: ./publications/2023-unpredictability-shortens-planning-horizons.pdf
   volume: '45'
   year: '2023'
-- &id024
+- &id026
   ENTRYTYPE: inproceedings
   ID: laskar2023groups
   abstract: Many real-life decisions, such as booking a vacation or selecting a partner,
@@ -244,8 +244,8 @@ Decision Making:
     decision-making.
   author: Sifar, Anjali and Purohit, Hariharan and Srivastava, Nisheeth
   booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-  keywords: Vision, Decision Making, Random Dot Motion Discrimination, Drift Diffusion
-    Models
+  keywords: Race Models, Drift Diffusion, Random Dot Motion Discrimination, Vision,
+    Decision Making
   number: '45'
   title: Measuring the completeness of race models for perceptual decision-making
   url: ./publications/2023-measuring-the-completeness-of-race-models-for-perceptual-decision-making.pdf
@@ -323,6 +323,16 @@ Decision Making:
   url: ./publications/2020-inducing-preference-reversals-by-manipulating-revealed-preferences.pdf
   volume: '42'
   year: '2020'
+- &id019
+  ENTRYTYPE: phdthesis
+  ID: srivastava2012computational
+  author: Srivastava, Nisheeth
+  keywords: Preferences, Preference Formation, Decision Making, Reinforcement Learning,
+    Morality, PhD Theses
+  school: University of Minnesota
+  title: A computational investigation of being in the world
+  url: ./publications/2012-a-computational-investigation-of-being-in-the-world-thesis.pdf
+  year: '2012'
 Deep Learning:
 - *id002
 - &id013
@@ -342,7 +352,7 @@ Deep Learning:
     will allow exercisers to rectify potential mistakes making self-practice feasible
     while reducing the risk of workout injuries.
   address: New York, NY, USA
-  author: Jaiswal, Abhishek and Chauhan, Gautam and Srivastava,      Nisheeth
+  author: Jaiswal, Abhishek and Chauhan, Gautam and Srivastava, Nisheeth
   booktitle: Proceedings of the 17th ACM Conference on Recommender Systems
   doi: 10.1145/3604915.3608816
   isbn: '9798400702419'
@@ -373,7 +383,7 @@ Deep Learning:
   url: ./publications/2023-deep-problems-with-neural-network-models-of-human-vision.pdf#page=58
   volume: '46'
   year: '2023'
-Drift Diffusion Models:
+Drift Diffusion:
 - *id003
 EEG:
 - &id018
@@ -422,6 +432,7 @@ Incidental Learning:
   year: '2024'
 - *id004
 Learning:
+- *id002
 - *id005
 Learning from Experience:
 - *id006
@@ -433,7 +444,7 @@ Learning from Experience:
 Learning from Experience Decision Making:
 - *id011
 MS Theses:
-- &id019
+- &id021
   ENTRYTYPE: mastersthesis
   ID: ayare2024tracking
   author: Shubhamkar Bajrang Ayare
@@ -444,7 +455,7 @@ MS Theses:
   year: '2024'
 - *id005
 - *id012
-- &id022
+- &id024
   ENTRYTYPE: mastersthesis
   ID: ankoju2023sampling
   author: Ankoju, Bhanu Prakash
@@ -454,6 +465,15 @@ MS Theses:
     risk preference
   url: ./publications/2022-sampling-based-probability-construction-explains-individual-differences-in-risk-preference-thesis.pdf
   year: '2022'
+- &id020
+  ENTRYTYPE: mastersthesis
+  ID: sharma2021motor
+  author: Sharma, Aastha
+  keywords: Program Learning, Representation Learning, Motor Representations, MS Theses
+  school: Indian Institute of Technology Kanpur
+  title: 'Draw, Don’t Look: Motor Representations for Few-shot Object Recognition'
+  url: ./publications/2021-draw-dont-look-motor-representations-for-few-shot-object-recognition-thesis.pdf
+  year: '2021'
 Machine Learning:
 - *id013
 - *id014
@@ -476,10 +496,13 @@ Morality:
 - *id015
 - *id016
 - *id017
-Multiple Object Tracking:
 - *id019
+Motor Representations:
 - *id020
-- &id025
+Multiple Object Tracking:
+- *id021
+- *id022
+- &id027
   ENTRYTYPE: inproceedings
   ID: ayare2023tracking
   abstract: Computational models of multiple object tracking (MOT) presuppose the
@@ -504,8 +527,9 @@ Multiple Object Tracking:
   year: '2023'
 PhD Theses:
 - *id015
+- *id019
 Polarization:
-- &id021
+- &id023
   ENTRYTYPE: inbook
   ID: arya2023clique
   abstract: This paper presents results from in silico experiments trying to uncover
@@ -520,7 +544,7 @@ Polarization:
     to one color, thereby showing resilience to balkanization of opinion in self-selecting
     networks. We conclude with a brief discussion of the implications of our findings
     for the representation of behavior in socio-cultural modeling.
-  author: Arya,  Pratyush and Srivastava,  Nisheeth
+  author: Arya, Pratyush and Srivastava, Nisheeth
   booktitle: Lecture Notes in Computer Science
   doi: 10.1007/978-3-031-43129-6_23
   isbn: '9783031431296'
@@ -532,11 +556,14 @@ Polarization:
     of Social Preferences in Fixed and Dynamic Networks
   url: ./publications/2023-understanding-clique-formation-in-social-networks.pdf
   year: '2023'
+Preference Formation:
+- *id019
 Preferences:
-- *id021
+- *id023
 - *id010
+- *id019
 Probability Judgements:
-- &id023
+- &id025
   ENTRYTYPE: inproceedings
   ID: ankoju2022sampling
   abstract: Contemporary models of subjective probability distortions assume that
@@ -565,40 +592,47 @@ Probability Judgements:
   volume: '44'
   year: '2022'
 Probability Judgments:
-- *id022
+- *id024
+Program Learning:
+- *id020
 Prospect Theory:
-- *id022
-- *id023
+- *id024
+- *id025
+Race Models:
+- *id003
 Random Dot Motion Discrimination:
 - *id003
 Recommendation Systems:
 - *id013
 Reinforcement Learning:
 - *id002
+- *id019
+Representation Learning:
+- *id020
 Risk:
-- *id022
+- *id024
 - *id007
 - *id008
-- *id023
+- *id025
 - *id009
 - *id011
 Social Cognition:
-- *id021
-- *id024
+- *id023
+- *id026
 Specification Curve Analysis:
 - *id018
 Statistical Learning:
 - *id005
 Vision:
 - *id002
-- *id019
-- *id020
+- *id021
+- *id022
 - *id014
 - *id006
 - *id003
-- *id025
+- *id027
 Working Memory:
-- *id022
-- *id023
+- *id024
+- *id025
 fMRI:
 - *id018

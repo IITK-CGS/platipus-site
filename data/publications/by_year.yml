@@ -36,7 +36,7 @@
     abstract: ''
     author: Jaiswal, Abhishek and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Affordances, Reinforcement Learning, Deep Learning, Vision
+    keywords: Affordances, Reinforcement Learning, Deep Learning, Learning, Vision
     number: '46'
     title: Learning to Play Video Games with Intuitive Physics Priors
     url: ./publications/2024-learning-to-play-video-games-with-intuitive-physics-priors.pdf
@@ -95,7 +95,7 @@
 - '2023':
   - ENTRYTYPE: mastersthesis
     ID: mehrotra2023effort
-    author: Samarth Mehrotra
+    author: Mehrotra, Samarth
     keywords: Mental Effort, Measurement, Attention, MS Theses
     school: Indian Institute of Technology Kanpur
     title: Measuring Mental Effort with Visual estimation tasks
@@ -117,7 +117,7 @@
       will allow exercisers to rectify potential mistakes making self-practice feasible
       while reducing the risk of workout injuries.
     address: New York, NY, USA
-    author: Jaiswal, Abhishek and Chauhan, Gautam and Srivastava,      Nisheeth
+    author: Jaiswal, Abhishek and Chauhan, Gautam and Srivastava, Nisheeth
     booktitle: Proceedings of the 17th ACM Conference on Recommender Systems
     doi: 10.1145/3604915.3608816
     isbn: '9798400702419'
@@ -145,7 +145,7 @@
       of opinion in self-selecting networks. We conclude with a brief discussion of
       the implications of our findings for the representation of behavior in socio-cultural
       modeling.
-    author: Arya,  Pratyush and Srivastava,  Nisheeth
+    author: Arya, Pratyush and Srivastava, Nisheeth
     booktitle: Lecture Notes in Computer Science
     doi: 10.1007/978-3-031-43129-6_23
     isbn: '9783031431296'
@@ -260,8 +260,8 @@
       to disambiguate complex models of perceptual decision-making.
     author: Sifar, Anjali and Purohit, Hariharan and Srivastava, Nisheeth
     booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
-    keywords: Vision, Decision Making, Random Dot Motion Discrimination, Drift Diffusion
-      Models
+    keywords: Race Models, Drift Diffusion, Random Dot Motion Discrimination, Vision,
+      Decision Making
     number: '45'
     title: Measuring the completeness of race models for perceptual decision-making
     url: ./publications/2023-measuring-the-completeness-of-race-models-for-perceptual-decision-making.pdf
@@ -443,6 +443,15 @@
     url: ./publications/2021-one-and-known-incidental-probability-judgments-from-very-few-samples.pdf
     volume: '43'
     year: '2021'
+  - ENTRYTYPE: mastersthesis
+    ID: sharma2021motor
+    author: Sharma, Aastha
+    keywords: Program Learning, Representation Learning, Motor Representations, MS
+      Theses
+    school: Indian Institute of Technology Kanpur
+    title: 'Draw, Don’t Look: Motor Representations for Few-shot Object Recognition'
+    url: ./publications/2021-draw-dont-look-motor-representations-for-few-shot-object-recognition-thesis.pdf
+    year: '2021'
 - '2020':
   - ENTRYTYPE: inproceedings
     ID: sifar2020limits
@@ -489,3 +498,13 @@
     url: ./publications/2020-inducing-preference-reversals-by-manipulating-revealed-preferences.pdf
     volume: '42'
     year: '2020'
+- '2012':
+  - ENTRYTYPE: phdthesis
+    ID: srivastava2012computational
+    author: Srivastava, Nisheeth
+    keywords: Preferences, Preference Formation, Decision Making, Reinforcement Learning,
+      Morality, PhD Theses
+    school: University of Minnesota
+    title: A computational investigation of being in the world
+    url: ./publications/2012-a-computational-investigation-of-being-in-the-world-thesis.pdf
+    year: '2012'
