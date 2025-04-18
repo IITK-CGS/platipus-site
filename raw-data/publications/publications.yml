@@ -1,3 +1,115 @@
+- ENTRYTYPE: article
+  ID: mitra2025rationalpresent
+  abstract: Inter-temporal impulsivity has been implicated in several theoretical
+    explanations of the self-reinforcing nature of low socioeconomic status (SES).
+    However, how exactly this interaction transpires is yet to be identified. We hypothesize
+    that impulsivity arises from planning failures due to unpredictable resource demands,
+    and people learn to adapt to this by being present-focused. We tested this hypothesis
+    across three studies using a novel paradigm in which participants used a farming
+    simulator and chose crops with different risk and time preferences. We found that
+    participants' revealed time preferences adaptively shortened when they faced resource
+    shocks and expanded in the absence of such shocks. We also found greater shrinkage
+    of temporal horizons when these shocks were unpredictable rather than predictable.
+    Our work shows that irrationality need not be invoked to explain the occurrence
+    of present-bias in low SES individuals, and that such behavior may simply be a
+    rational adaptation to the environmental demands of planning under precarity.
+  author: Mitra, Arjun, and Srinivasan, Narayanan, and Srivastava, Nisheeth
+  doi: 10.1162/opmi_a_00195
+  issn: 2470-2986
+  journal: Open Mind
+  keywords: Time Preference, Resource Scarcity, Rational Adaptation
+  month: '02'
+  pages: 452-474
+  title: Present-Focused Behavior as a Rational Adaptation to Precarity
+  url: ./publications/2025-present-focused-behavior-rational-adaptation.pdf
+  volume: '9'
+  year: '2025'
+- ENTRYTYPE: inproceedings
+  ID: mitra2025perceivedtime
+  abstract: ''
+  author: Mitra, Arjun and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Delay Discounting, Subjective Time, Uncertainty, Intertemporal Choice
+  number: '47'
+  title: Perceived time mediates the effect of unpredictability on intertemporal choices
+  url: ''
+  volume: '47'
+  year: '2025'
+- ENTRYTYPE: inproceedings
+  ID: rath2025attraction
+  abstract: A widely studied cognitive bias in decision-making is the ‘attraction
+    effect’ or ‘asymmetric dominance effect’, where introducing a clearly inferior
+    decoy option to a binary choice set increases the likelihood of choosing the dominating
+    option (target) over the other (competitor). While there is a consensus in the
+    literature that the attraction effect is robust with numerical stimuli, there
+    have been inconsistent results with perceptual stimuli (Frederick et al., 2014).
+    This numerical-perceptual distinction was further supported in some recent studies
+    involving perceptual stimuli claiming to have produced a negative attraction effect
+    (Spektor et al., 2018, 2022). We argue that this distinction does not exist and
+    that people’s choice behavior is better explained by inter-attribute relationships.
+    In this study, we conducted two experiments where we showed positive attraction
+    effects with combined perceptual-numerical stimuli (having both perceptual and
+    numerical attributes) and both positive and null effects with numerical stimuli
+    by manipulating the asymmetry in pair-wise comparison difficulty. In Experiment
+    1, we provided evidence for a strong attraction effect for perceptual-numerical
+    stimuli by ensuring the tradeoff between the attributes are difficult. Next, in
+    Experiment 2, we manipulated the competitor-decoy (CD) comparison difficulty while
+    controlling for a confound—target-competitor (TC) comparison difficulty, a factor
+    that has yet to be addressed by studies that have produced a positive attraction
+    effect with perceptual stimuli. To achieve this manipulation, we leveraged findings
+    from mathematical cognition and education research on fraction comparison, effectively
+    activating or suppressing the standard attraction effect through our experimental
+    design. Taken together, the results from both studies challenge the superficial
+    distinction between stimulus types and support a universal cognitive mechanism
+    underlying the ubiquitous attraction effect.
+  author: Rath,Tapas      Marupudi,Vijay
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Attraction Effect, Context Effect, Asymmetric Dominance, Mathematical
+    Cognition
+  number: '47'
+  title: Re-evaluating the Numerical-Perceptual Distinction in the Attraction Effect
+  url: https://www.cgs.iitk.ac.in/user/tapasr/docs/CogSci_2025__Context_effects.pdf
+  volume: '47'
+  year: '2025'
+- ENTRYTYPE: inproceedings
+  ID: purohit2025metaquitting
+  abstract: 'Stopping decisions are frequently modeled as decisions to switch to alternative
+    activities once the current activity stops being adequately rewarding, such as
+    in optimal foraging theory, as well as more recent metacognitive models. However,
+    the sense of stopping and making decisions in such frameworks is highly platonic,
+    with both decisions and stopping actions occurring instantaneously. In contrast,
+    the phenomenology
+
+    of quitting actions that one is undertaking appears to be temporally extended
+    and metacognitively challenging. We study the metacognitive covariates of quitting
+    decisions made by chess players using a large database of chess games sourced
+    from an online chess portal. Our analysis reveals that players tend to persevere
+    when they are playing against stronger opponents and after having played poor
+    moves. We also find that a history of quitting games makes players more likely
+    to quit in future games, but that having recently quit in a game offers some protective
+    effect against quitting. Finally, we find that quitting a game makes it more likely
+    that a player will play a game again soon. We place these results in the context
+    of modeling quitting as a metacognitive choice affected by multiple competing
+    goals.'
+  author: Purohit, Hariharan and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Decision Making, Metacognition, Optimal Stopping Problem, Quitting, Resilience
+  number: '47'
+  title: A Metacognitive appraisal of quitting
+  url: ''
+  volume: '47'
+  year: '2025'
+- ENTRYTYPE: inproceedings
+  ID: shivnekar2025gazeconflict
+  abstract: ''
+  author: Shivnekar, Revati Vijay and Srivastava, Nisheeth
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  keywords: Cognitive Conflict, Measurement, Reasoning, Eye Tracking
+  number: '47'
+  title: Gaze signatures of cognitive conflict while choosing and solving
+  url: ''
+  volume: '47'
+  year: '2025'
 - ENTRYTYPE: phdthesis
   ID: shivnekar2024conflict
   author: Shivnekar, Revati Vijay

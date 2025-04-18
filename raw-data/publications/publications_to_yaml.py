@@ -5,7 +5,7 @@ bib_file = "publications.bib"
 bib.bib2yaml(bib_file, "./", "publications") # produces publications.yml
 
 yaml_file = "publications.yml"
-with open(yaml_file) as _in:
+with open(yaml_file) as _in: 
 	allpubs = yaml.safe_load(_in)
 
 # hugo publications data dir relative to this file
