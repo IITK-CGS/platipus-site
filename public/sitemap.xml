@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/</loc>
+    <loc>http://localhost:1313/user/nsrivast/platipus-lab/</loc>
     <lastmod>2020-06-01T16:16:24+02:00</lastmod>
   </url><url>
-    <loc>https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/categories/</loc>
+    <loc>http://localhost:1313/user/nsrivast/platipus-lab/categories/</loc>
   </url><url>
-    <loc>https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/people/</loc>
+    <loc>http://localhost:1313/user/nsrivast/platipus-lab/people/</loc>
   </url><url>
-    <loc>https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/publications/</loc>
+    <loc>http://localhost:1313/user/nsrivast/platipus-lab/publications/</loc>
   </url><url>
-    <loc>https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/publications/by-topic/</loc>
+    <loc>http://localhost:1313/user/nsrivast/platipus-lab/publications/by-topic/</loc>
   </url><url>
-    <loc>https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/publications/by-year/</loc>
+    <loc>http://localhost:1313/user/nsrivast/platipus-lab/publications/by-year/</loc>
   </url><url>
-    <loc>https://www.cgs.iitk.ac.in/user/nsrivast/platipus-lab/tags/</loc>
+    <loc>http://localhost:1313/user/nsrivast/platipus-lab/tags/</loc>
   </url>
 </urlset>
