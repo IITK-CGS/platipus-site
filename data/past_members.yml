@@ -2,6 +2,10 @@ aastha:
   name: Aastha Sharma
   email: hello@aastha.sh
   webpage: https://aastha.sh
+abhishek:
+  name: Abhishek Jaiswal
+  webpage: https://www.cse.iitk.ac.in/users/abhijais/
+  email: abhi.jaiswal44@gmail.com
 anish:
   name: Anish Thankachan
   email: anish.t.4712@gmail.com
@@ -13,7 +17,9 @@ bhanu:
 diksha:
   name: Diksha Yadav
   email: yadavdiksha619@gmail.com
-  webpage:
+gourav:
+  name: Gouravmoy Boruah
+  email: gouravmoy22@iitk.ac.in
 harish:
   name: Harish Balakrishnan
   email: harishbalakrishnan3@gmail.com
@@ -50,4 +56,21 @@ nidhi:
   name: Nidhinandana Salian
   email: niraj.raj030@gmail.com
   webpage: https://www.linkedin.com/in/nidhinandanasalian/
-
+roshan:
+  name: Roshan Jayarajan
+  email: roshanj20@iitk.ac.in
+sanket:
+  name: Sanket Dutta
+  email: sanketd21@iitk.ac.in
+  webpage: https://www.linkedin.com/in/sanket-dutta-bb00091b9/
+satwick:
+  name: Satwick Sen Sharma
+  email: satwick22@iitk.ac.in
+sovan:
+  name: Sovan Sahoo
+  email: sovansahoo23@iitk.ac.in
+  webpage: https://www.linkedin.com/in/sovan-sahoo-180a99153
+vikram:
+  name: Vikram Kumar
+  email: vikramk23@iitk.ac.in
+  webpage: https://www.linkedin.com/in/vikram-kumar-2562b3201

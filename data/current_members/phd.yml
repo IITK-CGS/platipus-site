@@ -1,20 +1,14 @@
-abhishek:
-  name: Abhishek Jaiswal
-  webpage: https://www.cse.iitk.ac.in/users/abhijais/
-  email: abhi.jaiswal44@gmail.com
-  summary: I work on developing Cognitive game playing agents with Human Priors. The idea is to make game playing more like human playing which, in recent times, has systematically and significantly shifted to large scale pattern matching. Such agents would benefit from the same level of generalization that humans show and advance the goals of Aritifical General Intelligence.
-  photo: members/abhishek.jpg
 arjun:
   name: Arjun Mitra
   email: arjunmitra2010@gmail.com
   summary: I was interested in figuring out the mysteries of our galaxy when I was young and took up Physics as my undergraduate degree. It turns out human beings are much more mysterious. Serendipitously, I am here studying human behavior. My thesis lies in the confluence of psychology and economics, where I study the structural and psychological factors influencing people's inclination to forego later rewards and choose 'now' using innovative gaming experimental paradigms and computational models.
   photo: members/arjun.jpg
-  webpage: www.linkedin.com/in/arjunmitra1
+  webpage: https://mitraarjun.github.io/me/
 hariharan:
   name: Hariharan Purohit
   email: hariharan22@iitk.ac.in
-  webpage: https://cgs1.cgs.iitk.ac.in/user/hariharan22/site/
-  summary: Hi, Hari here ('naam toh nahi suna hoga'). I think about quitting. My work focuses on defining the principles behind when people decide to quit an activity. I use behavioral field experiments and large-scale datasets to describe this phenomena. Besides my academic shenanigans, I also run and play video games. Lastly, this bio does not encompass my current lived experiences as a PhD student, which briefly can be described as transient and ever-growing.
+  webpage: https://www.cgs.iitk.ac.in/user/hariharan22/site/
+  summary: Hi, Hari here. I think about quitting. My work focuses on defining the principles behind when people decide to quit an activity. I use behavioral field experiments and large-scale datasets to describe this phenomena. Besides my academic shenanigans, I also run and play video games. Lastly, this bio does not encompass my current lived experiences as a PhD student, which briefly can be described as transient and ever-growing.
   photo: members/hariharan.jpg
 tapas:
   name: Tapas Ranjan Rath
@@ -22,3 +16,8 @@ tapas:
   webpage: https://www.cgs.iitk.ac.in/user/tapasr/
   summary: For my Ph.D., I am working on human decision-making, particularly formation, mental representation, reversals of preferences, and the role of attention in the phenomena in domains including and beyond consumer choice. I use behavioural experiments and Bayesian modelling approaches to decipher the cognitive mechanisms involved in decision-making. I spend my leisure time reading Indian philosophies.
   photo: members/tapas.jpg
+kaushik:
+  name: Kaushik
+  email: rkaushik@iitk.ac.in
+  summary: After drifting across many areas of the mind, I have settled on asking questions about the nature of intelligence and its measurement, and hopefully answering them, for my PhD. Apart from that, I ponder about the nature of desire and its dynamics over one's life span, and the behavioral patterns of rule-following and rule-breaking, and their underlying psychological and experiential aspects.
+  photo: members/kaushik.jpeg

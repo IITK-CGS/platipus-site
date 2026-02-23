@@ -1,51 +1,33 @@
-gourav:
-  name: Gouravmoy Boruah
-  email: gouravmoy22@iitk.ac.in
-  summary:
-  photo: members/gourav.jpg
-sanket:
-  name: Sanket Dutta
-  email: sanketd21@iitk.ac.in
-  webpage: https://www.linkedin.com/in/sanket-dutta-bb00091b9/
-  summary: Working on Automated Question Generation within the lab. Personal interest in exploring interactive technology for music production and sports analytics.
-  photo: members/sanket.jpg
-satwick:
-  name: Satwick Sen Sharma
-  email: satwick22@iitk.ac.in
-  summary:
-  photo: members/satwick.jpg
-roshan:
-  name: Roshan Jayarajan
-  email: roshanj20@iitk.ac.in
-  summary:
-  photo: members/roshan.jpg
 dharna:
   name: Dharna
   email: dharnap23@iitk.ac.in
   webpage: https://www.linkedin.com/in/dharna-prasad-38853320a/
   summary: Interested in social cognition.
   photo: members/dharna.jpg
-sovan:
-  name: Sovan Sahoo
-  email: sovansahoo23@iitk.ac.in
-  webpage: https://www.linkedin.com/in/sovan-sahoo-180a99153
-  summary: |
-    Kilo volts and amperes, is where my journey did start, <br/>
-    Now in cognitive systems, I play my part. <br/>
-    In machine learning's depths, I explore with all my heart, <br/>
-    Navigating human-computer realms,I am crafting my art.
-  photo: members/sovan.jpg
-vikram:
-  name: Vikram Kumar
-  email: vikramk23@iitk.ac.in
-  webpage: https://www.linkedin.com/in/vikram-kumar-2562b3201
-  summary: I am Vikram Kumar, an MTech student passionate about Artificial Intelligence, Machine Learning, and their implications in cognitive science. Under the mentorship of Prof. Dr. Nisheeth Srivastava.I'm currently delving into Item Response Theory, aiming to develop novel methodologies to enhance its application and address associated complexities.
-  photo: members/vikram.jpg
 saloni:
   name: Saloni
   email: salonip23@iitk.ac.in
   webpage: https://linktr.ee/salonip23iitk
-  summary: |
+  summary:
     I am interested in studying anxiety and decision-making, particularly how the stochastic nature of self-identification impacts an individual's anxiety levels in various environmental stimuli. <br/>
-    When I'm not in the lab, you can find me around the campus hunting flowers or stalking cats. And even though I have lots of hobbies, I usually end up enjoying a good nap or naming my plushies—because, let's be real, I'm literally just a girl.
+    When I'm not in the lab, you can find me around the campus hunting flowers or stalking cats. And even though I have lots of hobbies, 
+    I usually end up enjoying a good nap or naming my plushies—because, let's be real, I'm literally just a girl.
   photo: members/saloni.jpg
+kartik:
+  name: Kartik Sai Jagerkal 
+  email: jagerkalkartiksai@gmail.com
+  webpage: https://www.linkedin.com/in/kartik-sai-j-a2443a197/
+  summary: I'm an Master's student, interested in the intersection of AI and Cognitive science. I'm specifically intersted in metacognitive capabilities of LLMs. On the side, I dabble a little in videogames and writing.
+  photo: members/kartik.jpg
+ksiteesh:
+  name: Ksiteesh Bhardwaj 
+  email: nirvikalpakshiteesh@gmail.com
+  webpage: https://www.linkedin.com/in/kshiteesh-bhardwaj-88154520b/
+  summary: I seek to understand the dynamics and content of consciousness, what determines when something enters awareness, the mechanisms underlying it, the nature of the associated subjectivity, and the extent to which we have control versus how much unfolds autonomously. I am also interested in trait-based and contextual modulators of these dynamics, as well as their applications to goal-directed behavior and self-regulation.
+  photo: members/ksiteesh.jpeg
+eshwarya:
+  name: Eshwarya Tripathi
+  email: eshwaryat24@iitk.ac.in
+  webpage: https://in.linkedin.com/in/eshwarya-t-434560321
+  summary: I like procrastination, games and iced coffee. Made two of them my research topic.
+  photo: members/eshwarya.jpg
